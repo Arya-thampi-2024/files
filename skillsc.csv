@@ -1,0 +1,1331 @@
+name,skill,location,pincode,district,wage,age,gender,rating
+Suresh,Plumber,Kottappuram,679513,Palakkad,800,38,Male,3.9
+Ramesh,Electrician,Thottara,679513,Palakkad,900,42,Male,3.7
+Anjali,Grass Cutter,Attasseri,679513,Palakkad,700,34,Female,1.6
+Athira,Coconut Climber,Mannarkkad,678582,Palakkad,800,29,Female,1.4
+Aani,Carpentry,Adakkaputhur B.O,679503,Palakkad,1000,55,Female,4.2
+Lissi,Painter,Agali S.O,678581,Palakkad,600,60,Female,4
+Jose,Masonry,Akalur B.O,679302,Palakkad,800,59,Male,4.9
+Jonson,Driver,Attempathy B.O,678556,Palakkad,900,63,Male,4.3
+Mathew,Wood Cutter,Athipotta,678544,Palakkad,700,45,Male,2.3
+Gopalan,Electrician,Athicode,678554,Palakkad,800,48,Male,2.6
+Elsi,Home Nurse,Ariyur,678583,Palakkad,1000,42,Female,4.9
+Remya,Maid,Akathethara,678008,Palakkad,600,58,Female,2.6
+Ramu,Electrician,Alampallam,678506,Palakkad,800,47,Male,4.8
+Bindu,Electrician,Alanallur,678601,Palakkad,900,48,Female,2.6
+Raman,Grass Cutter,Alangad,678633,Palakkad,700,36,Male,4
+Aneesh,Coconut Climber,Alathur Mbr,678541,Palakkad,800,46,Male,3.1
+Biju,Carpentry,Amayur,679303,Palakkad,1000,62,Male,4.3
+Rajani,Painter,Ambalapara,679512,Palakkad,600,45,Female,4.7
+Bineesh,Masonry,Anjumoorthy,678682,Palakkad,800,57,Male,4.7
+Ganesh,Driver,Ayakkad,678683,Palakkad,900,30,Male,4.9
+Manoj,Wood Cutter,Ayalur,678510,Palakkad,700,45,Male,4.7
+Vishnu,Electrician,Azhiyannur,678633,Palakkad,800,43,Male,2.8
+Sankar,Home Nurse,Bhimanad,678601,Palakkad,1000,35,Male,3.2
+Mahesh,Maid,Chalavara,679505,Palakkad,600,33,Male,4.6
+Parameswaran,Plumber,Chalisseri,679536,Palakkad,800,41,Male,2.9
+Hari,Electrician,Chaliyattiri,679535,Palakkad,900,49,Male,3.7
+Unnikrishnan,Grass Cutter,Chandramala Estate,678508,Palakkad,700,51,Male,2.5
+Dasan,Coconut Climber,Chandranagar,678007,Palakkad,800,30,Male,4.3
+Sidhi,Carpentry,Chandrapuram,678624,Palakkad,1000,31,Male,2.2
+Musthafa,Painter,Chandrasekharapuram,678611,Palakkad,600,38,Male,2.3
+Appunni,Masonry,Changileri,678762,Palakkad,800,33,Male,3.6
+Kunjunni,Driver,Chathamangalam,678508,Palakkad,900,34,Male,1.4
+Sreeju,Wood Cutter,Chathanur,679535,Palakkad,700,36,Male,2.2
+Ravi,Electrician,Chavadiyur,678581,Palakkad,800,40,Male,4
+Rajesh,Home Nurse,Chembra,679304,Palakkad,1000,41,Male,1.9
+Michael,Maid,Chennangad,678573,Palakkad,600,29,Male,2.8
+Jonson,Plumber,Chenthamaranagar,678102,Palakkad,800,48,Male,3.9
+Prakashan,Electrician,Cheramangalam,678703,Palakkad,900,55,Male,4.9
+Narayanan,Grass Cutter,Cherambattakavu,679501,Palakkad,700,65,Male,3.8
+Nithin,Coconut Climber,Cheraya,678631,Palakkad,800,68,Male,1.8
+Reshma,Carpentry,Cherottur,679521,Palakkad,1000,52,Female,3.1
+Anagha,Painter,Cherpalcheri,679503,Palakkad,600,53,Female,4
+Anil,Masonry,Cherukattupulam,679522,Palakkad,800,61,Male,3.4
+Hamsa,Driver,Cherukode,679336,Palakkad,900,60,Male,1
+Muneer,Wood Cutter,Cherukulam,678572,Palakkad,700,49,Male,4.4
+Mathan,Electrician,Cherukutangad,679305,Palakkad,800,53,Male,2.8
+Ayurghan,Home Nurse,Cherumundasseri,679512,Palakkad,1000,70,Male,4.3
+Firdoz,Maid,Chethallur,678583,Palakkad,600,65,Male,1.5
+Akhil,Plumber,Chimbukat,678721,Palakkad,800,61,Male,3.2
+Rinshad,Electrician,Chindaki,678582,Palakkad,900,61,Male,2.6
+Fasal,Grass Cutter,Chithali,678702,Palakkad,700,54,Male,2.8
+Sufail,Coconut Climber,Chittadi,678706,Palakkad,800,59,Male,2.8
+Nisam,Carpentry,Chittilancheri,678704,Palakkad,1000,57,Male,4.1
+Shabeer,Painter,Chittur,678581,Palakkad,600,55,Male,3.9
+Shakkir,Masonry,Chokkanathapuram,678005,Palakkad,800,66,Male,4.7
+Anwar,Driver,Choorakode,679336,Palakkad,900,36,Male,1.5
+Arun,Wood Cutter,Chulanur,678574,Palakkad,700,40,Male,3.6
+Akshay,Electrician,Chunangad,679511,Palakkad,800,42,Male,4.7
+Seevan,Home Nurse,Chundampatta,679337,Palakkad,1000,45,Male,4.9
+Abid,Maid,Coyalmanna,678702,Palakkad,600,47,Male,3.2
+Mansoor,Plumber,Dhoni,678009,Palakkad,800,49,Male,4.9
+Vinod,Electrician,Edakode,679522,Palakkad,900,31,Male,3.9
+Pramod,Grass Cutter,Edathanttukara,678601,Palakkad,700,29,Male,1
+Balan,Coconut Climber,Edathara,678611,Palakkad,800,31,Male,3.7
+Babu,Carpentry,Eduppukulam,678556,Palakkad,1000,29,Male,1.1
+Sreedevi,Painter,Elakkad,678631,Palakkad,600,31,Male,2.7
+Kuttan,Masonry,Elambulasseri,678595,Palakkad,800,33,Male,1.5
+Sivan,Driver,Elapulli,678622,Palakkad,900,56,Male,4.7
+Krishnan,Wood Cutter,Elapulli South,678622,Palakkad,700,54,Male,1.3
+Vasu,Electrician,Elavampadam,678684,Palakkad,800,33,Male,2.8
+Satheesh,Home Nurse,Elavancheri,678508,Palakkad,1000,55,Male,1.5
+Geetha,Maid,Erattakulam,678682,Palakkad,600,54,Male,2.6
+Preman,Plumber,Eravakkad,679552,Palakkad,800,38,Male,2
+Soman,Electrician,Erimayur,678546,Palakkad,900,41,Male,4
+Sasi,Grass Cutter,Eruttenpadi,678555,Palakkad,700,45,Male,2.5
+Raghu,Coconut Climber,Etapalam,679308,Palakkad,800,46,Male,4.5
+Vishal,Carpentry,Ettanur,678502,Palakkad,1000,48,Male,2.4
+Dora,Maid,Ezhuvanthala,679335,Palakkad,600,55,Male,1.6
+David,Carpentry,Gandhi Seva Sadan,679302,Palakkad,600,29,Male,4.8
+Kannan,Painter,Ganeshgiri,679123,Palakkad,800,31,Male,3.4
+Gopi,Masonry,Govindapuram,678507,Palakkad,900,29,Male,1.2
+Sundaran,Driver,Irimbakachola,678591,Palakkad,700,31,Male,4.5
+Mani,Wood Cutter,Irimbalasseri,679335,Palakkad,800,33,Male,4.1
+Viswan,Electrician,Jellipara,678581,Palakkad,600,56,Male,3.4
+Varadhan,Carpentry,Kacheriparamba,678601,Palakkad,800,54,Male,3
+Binoy,Painter,Kadambur,679515,Palakkad,900,33,Male,1.1
+Lolan,Masonry,Kadukkamkunnu,678651,Palakkad,700,55,Male,3.3
+Sambu,Driver,Kaipuram,679308,Palakkad,800,54,Male,2.2
+George,Wood Cutter,Kairady,678510,Palakkad,600,29,Male,3.2
+Jeevan,Electrician,Kaithachira,678582,Palakkad,800,31,Male,2.7
+Mohan,Carpentry,Kakkayur,678512,Palakkad,900,29,Male,4.6
+Madhavan,Painter,Kalapatti,678702,Palakkad,700,31,Male,2.4
+Pyari,Masonry,Kalkandi,678582,Palakkad,800,33,Male,1.9
+Jayan,Driver,Kalladathur,679552,Palakkad,600,56,Male,1.7
+Boby,Wood Cutter,Kalladikode,678596,Palakkad,800,54,Male,2.1
+Tony,Electrician,Kalladipatta,679313,Palakkad,900,33,Male,2
+Xavier,Painter,Kallamala,678582,Palakkad,700,55,Male,1.5
+Don,Plumber,Kallekkad,678006,Palakkad,800,54,Male,1.6
+Johnson,Electrician,"Edakochi, Kochi",682010,Ernakulam,600,29,Male,5
+Varghese,hinican,"Edakochi, Kochi",682010,Ernakulam,800,31,Male,1
+Joe,Printing,"Edakochi, Kochi",682010,Ernakulam,900,29,Male,3.9
+Antony,Carpentry,"Edakochi, Kochi",682010,Ernakulam,700,31,Male,2.5
+Thomas,Maison,"Edakochi, Kochi",682010,Ernakulam,800,33,Male,2.5
+Xavier,Maison,"Edakochi, Kochi",682010,Ernakulam,1000,56,Male,3.9
+Savion,Driver,"Edakochi, Kochi",682010,Ernakulam,900,54,Male,4.4
+Lawrence,Driver,"Edakochi, Kochi",682010,Ernakulam,900,33,Male,3.7
+Ann,Painter,"Palluruthy, Kochi",682005,Ernakulam,800,55,Male,2.1
+Arun,Painter,"Palluruthy, Kochi",682005,Ernakulam,800,54,Male,3.5
+Nikhil,Mechanic,"Palluruthy, Kochi",682005,Ernakulam,1200,28,Male,1.5
+Aenosh,Mechanic,"Palluruthy, Kochi",682005,Ernakulam,1200,32,Male,2.8
+Aebel,Grass Cutter,"Palluruthy, Kochi",682005,Ernakulam,800,45,Male,3.5
+Catherine,Maid,"Palluruthy, Kochi",682005,Ernakulam,600,38,Female,2.4
+Sabu,Grass Cutter,"Palluruthy, Kochi",682005,Ernakulam,800,41,Male,4.2
+Shiju,Mechanic,"Palluruthy, Kochi",682005,Ernakulam,1200,51,Male,4
+Jibi,Mechanic,"Palluruthy, Kochi",682005,Ernakulam,1200,60,Male,3
+Jiji,Carpentry,"Palluruthy, Kochi",682005,Ernakulam,900,41,Male,3.9
+Pauly,Carpentry,"Palluruthy, Kochi",682005,Ernakulam,900,36,Male,3.6
+Surendran,Plumber,"N.A.D,Aluva",683563,Ernakulam,800,55,Male,3.2
+Supran,Painter,"N.A.D,Aluva",683563,Ernakulam,600,28,Male,1.5
+Rajeev,Wood Cutter,"N.A.D,Aluva",683563,Ernakulam,500,47,Male,3.3
+Sajeev,Wood Cutter,"N.A.D,Aluva",683563,Ernakulam,600,55,Male,4.4
+Chandran,Electrician,"N.A.D,Aluva",683563,Ernakulam,700,29,Male,3
+Mini,Maid,"N.A.D,Aluva",683563,Ernakulam,1000,31,Female,4.9
+Jaya,Masonry,"N.A.D,Aluva",683563,Ernakulam,500,33,Female,1.8
+Kala,Masonry,"N.A.D,Aluva",683563,Ernakulam,1000,56,Female,2.3
+Komalam,Masonry,"N.A.D,Aluva",683563,Ernakulam,750,54,Female,2.7
+Omana,Maid,"N.A.D,Aluva",683563,Ernakulam,650,,Female,3.4
+Somu,Maid,"N.A.D,Aluva",683563,Ernakulam,550,44,Female,2.9
+Benseena,Maid,Angamally,683572,Ernakulam,650,45,Female,2.3
+sidheeq,Plumber,Angamally,683572,Ernakulam,550,36,Male,1.3
+Vishnu,Painter,Angamally,683572,Ernakulam,800,39,Male,2.9
+Vipin,Wood Cutter,Angamally,683572,Ernakulam,600,29,Male,2.1
+Aji,Wood Cutter,Angamally,683572,Ernakulam,500,58,Male,2.5
+Shahana,Maid,Angamally,683572,Ernakulam,600,33,Female,1.7
+Baiju,Electrician,Angamally,683572,Ernakulam,700,55,Male,3.9
+Manju,Maid,Angamally,683572,Ernakulam,1000,54,Female,1.5
+Shaiji,Maid,Angamally,683572,Ernakulam,500,29,Female,2.3
+Ratheesh,Painter,Angamally,683572,Ernakulam,1000,31,Male,3.2
+Radhika,Maid,Nadathara,680751,Trissur,750,29,Female,2.1
+Rajitha,Masonry,Nadathara,680751,Trissur,650,31,Female,2.2
+Rathi,Maid,Nadathara,680751,Trissur,550,33,Female,4.3
+Shandha,Maid,Nadathara,680751,Trissur,650,56,Female,2.5
+shashi,Painter,Nadathara,680751,Trissur,550,54,Male,4.1
+indhu,Maid,Nadathara,680751,Trissur,1000,33,Female,1.7
+Sindhu,Maid,Nadathara,680751,Trissur,500,55,Female,2.7
+Bindhu,Maid,Nadathara,680751,Trissur,1000,54,Female,2.1
+Praveen,Plumber,Nadathara,680751,Trissur,750,29,Male,3.3
+shobha,Painter,Nadathara,680751,Trissur,650,55,Female,1.6
+Aneesh,Painter,Nadathara,680751,Trissur,550,28,Male,4.6
+Anitha,Maid,Mattam,680602,Trissur,750,47,Female,3.9
+Shankarankutty,Electrician,Mattam,680602,Trissur,650,55,Male,3
+prasadh,Painter,Mattam,680602,Trissur,550,29,Male,1.1
+Narayanan,Plumber,Mattam,680602,Trissur,650,31,Male,2.3
+Mahin,Electrician,Mattam,680602,Trissur,550,33,Male,1.9
+Sheela,Maid,Mattam,680602,Trissur,800,56,Female,1
+Diana,Maid,Mattam,680602,Trissur,600,54,Female,2
+Shiny,Maid,Mattam,680602,Trissur,500,33,Female,2
+Shaji,Maid,Mattam,680602,Trissur,600,45,Male,3.6
+Lalu,Painter,Mattam,680602,Trissur,700,35,Male,1.2
+Jayan,Plumber,Kuttikkad,680724,Trissur,1000,52,Male,1.7
+sony,Maid,Kuttikkad,680724,Trissur,650,28,Female,2.2
+Ummukulusu,Maid,Kuttikkad,680724,Trissur,550,65,Female,3.9
+Laisa,Maid,Kuttikkad,680724,Trissur,650,45,Female,4
+Laiju,Electrician,Kuttikkad,680724,Trissur,550,42,Male,2.4
+Lijeesh,Plumber,Kuttikkad,680724,Trissur,800,52,Male,1.9
+chinju,Maid,Kuttikkad,680724,Trissur,600,36,Female,1.5
+chippy,Maid,Kuttikkad,680724,Trissur,500,37,Female,1.1
+akshay,Driver,Kuttikkad,680724,Trissur,600,45,Male,4
+Arjun,Driver,Kuttikkad,680724,Trissur,700,35,Male,2.2
+Parvathy,Masonry,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,1000,52,Female,4.4
+Shahul,Driver,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,1000,28,Male,2.2
+Sivin,Carpentry,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,650,65,Male,5
+Rahul,Plumber,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,550,45,Male,1.8
+Sanjay,Driver,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,650,42,Male,1.6
+Paul,Carpentry,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,550,52,Male,4.2
+Meenakshy,Maid,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,800,36,Female,1.8
+Binu,Carpentry,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,600,37,Male,1.9
+Dhanush,Driver,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,500,37,Male,2.6
+Amith,Driver,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,600,45,Male,3.2
+Snonu,Plumber,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,700,35,Male,2.8
+Salman,Driver,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,1000,52,Male,2
+Mirza,Wood Cutter,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,650,45,Male,3.1
+Vaishnav,Driver,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,550,42,Male,2.1
+Jerry,Plumber,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,800,52,Male,4.6
+Ujwal,Carpentry,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,600,36,Male,2.9
+Nikhil,Wood Cutter,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,500,37,Male,3.2
+Wilfred,Plumber,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,600,37,Male,4.1
+Amal,Carpentry,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,700,45,Male,4.1
+Ammini,Maid,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,1000,35,Female,4.4
+Sheeja,Maid,"Bavali,Mananthavady",670646,Wayanad,800,35,Female,4.2
+Sidhan,Wood Cutter,"Bavali,Mananthavady",670646,Wayanad,600,52,Male,2
+Raman,Plumber,"Bavali,Mananthavady",670646,Wayanad,500,45,Male,4
+Venu,Carpentry,"Bavali,Mananthavady",670646,Wayanad,600,42,Male,4.8
+Niveditha,Maid,"Bavali,Mananthavady",670646,Wayanad,700,52,Female,3.5
+Vinod,Wood Cutter,"Bavali,Mananthavady",670646,Wayanad,1000,36,Female,4.8
+Subash,Carpentry,"Bavali,Mananthavady",670646,Wayanad,500,37,Female,4.2
+Rajappan,Plumber,"Bavali,Mananthavady",670646,Wayanad,1000,37,Female,4.4
+Sharath,Carpentry,"Bavali,Mananthavady",670646,Wayanad,750,45,Male,1.8
+sahil,Wood Cutter,"Bavali,Mananthavady",670646,Wayanad,650,37,Male,4.3
+Jayakrishnan,Carpentry,"Anthinad,Meenachil",686651,Kottayam,550,45,Male,1.2
+Anwar,Plumber,"Anthinad,Meenachil",686651,Kottayam,650,35,Male,2.6
+Karnan,Masonry,"Anthinad,Meenachil",686651,Kottayam,550,52,Male,2.4
+vineesh,Wood Cutter,"Anthinad,Meenachil",686651,Kottayam,600,45,Male,1.6
+Aswin,Masonry,"Anthinad,Meenachil",686651,Kottayam,700,42,Male,2.7
+Kannan,Masonry,"Anthinad,Meenachil",686651,Kottayam,1000,52,Male,2.4
+Mohanan,Plumber,"Anthinad,Meenachil",686651,Kottayam,500,36,Male,2
+Jishnu,Wood Cutter,"Anthinad,Meenachil",686651,Kottayam,1000,37,Male,1.9
+Dasan,Masonry,"Anthinad,Meenachil",686651,Kottayam,750,37,Male,2.9
+Dineshan,Plumber,"Anthinad,Meenachil",686651,Kottayam,650,45,Male,2.2
+Rajesh,Masonry,"Anthinad,Meenachil",686651,Kottayam,550,35,Male,2.5
+Shajeer,Grass Cutter,"Asramam,Kollam",691002,Kollam,650,35,Male,4.6
+Abhilash,Plumber,"Asramam,Kollam",691002,Kollam,550,52,Male,3.1
+Brijesh,Plumber,"Asramam,Kollam",691002,Kollam,1000,45,Male,3.1
+Saju,Plumber,"Asramam,Kollam",691002,Kollam,500,55,Male,3.7
+Sabu,Grass Cutter,"Asramam,Kollam",691002,Kollam,1000,35,Male,3.6
+Chandrakumar,Wood Cutter,"Asramam,Kollam",691002,Kollam,750,24,Male,4.8
+vijayakumar,Wood Cutter,"Asramam,Kollam",691002,Kollam,650,56,Male,3.2
+Ambujashan,Wood Cutter,"Asramam,Kollam",691002,Kollam,550,49,Male,2.1
+Deepu,Mechanic,Kaloor,682017,Ernakulam,1200,32,Male,4.8
+Jomon,Mechanic,Kaloor,682017,Ernakulam,1200,28,Male,2.4
+Sarasama,Cleaner,Cherthala,688524,Alapuzha,600,41,Female,4.7
+Valli,Cleaner,Cherthala,688524,Alapuzha,600,35,Female,2.1
+Raji,Cleaner,Cherthala,688524,Alapuzha,600,38,Female,2.9
+Sudarma,Cleaner,Cherthala,688524,Alapuzha,600,52,Female,1.6
+Anil,Plumber,Kavalappara,679523,Palakkad,650,35,Male,2.5
+Krishnan,Electrician,Kavalpad,678012,Palakkad,550,52,Male,4.8
+Sivan,Grass Cutter,Kavasseri,678543,Palakkad,1000,45,Male,4.3
+Ramu,Coconut Climber,Kavundikkal,678581,Palakkad,500,55,Male,2.4
+Raju,Carpentry,Kayiliad,679122,Palakkad,1000,35,Male,3.3
+Jonson,Painter,Kazhani,678543,Palakkad,750,24,Male,2.4
+Jomon,Masonry,Keralasseri,678641,Palakkad,650,56,Male,5
+Dhamu,Driver,Kilakkancheri,678684,Palakkad,550,49,Male,1.1
+Ramanan,Wood Cutter,Kilakkumbram,678642,Palakkad,1200,32,Male,1.1
+Vasu,Electrician,Kilmuri,679307,Palakkad,1200,28,Male,2.6
+Deepak,Home Nurse,Kinasseri,678701,Palakkad,600,41,Male,1.3
+Devan,Maid,Kinavallur,678612,Palakkad,650,35,Male,4.1
+Damodharan,Plumber,Kizhakkumuri,678508,Palakkad,550,38,Male,2.4
+Danush,Electrician,Kizhayur,679303,Palakkad,1000,35,Male,3.9
+Dinesh,Grass Cutter,Kizhur,679501,Palakkad,500,52,Male,4.7
+Arjun,Coconut Climber,Kodakkad,678583,Palakkad,1000,45,Male,2.7
+Milan,Carpentry,Kodumunda,679303,Palakkad,750,55,Male,3.7
+Nirmal,Painter,Koduntharapully,678004,Palakkad,650,35,Male,2.2
+Kishor,Masonry,Koduvayur,678501,Palakkad,550,24,Male,3.9
+Vinu,Driver,Kolikkottusseri,679303,Palakkad,1200,56,Male,2.7
+Vishnu,Carpentry,Kollengode,678506,Palakkad,1200,49,Male,1.8
+Ragavan,Painter,Kondurkara,679313,Palakkad,600,32,Male,2.4
+Raghu,Masonry,Kongad,678631,Palakkad,700,28,Male,2.7
+Rahul,Driver,Konikazhi,678632,Palakkad,800,41,Male,4.6
+Ananya,Upholsterer,Adayamon,695614,Trivandrum ,1500,35,Female,1.2
+Akash,Carpentry,Alamcode,695102,Trivandrum ,700,38,Male,4.4
+Chandini,Solar Panel Installer,Aliyadu,695607,Trivandrum ,1050,34,Female,2.1
+Devika,Ironworker,Altharamoodu,695102,Trivandrum ,950,43,Female,2.1
+Elina,Septic Tank Servicer,Amachal,695572,Trivandrum ,600,29,Female,4.2
+Faisal,Upholsterer,Amaravila,695122,Trivandrum ,850,39,Male,1.3
+Gopika,Flooring Installer,Ambalamukku,695005,Trivandrum ,1100,47,Female ,1.5
+Harish,Locksmith,Ambalathara,695026,Trivandrum ,1450,30,Male,2.3
+Ishita,Plumber,Ambalathinkala,695572,Trivandrum ,750,48,Female ,3.4
+Jithin,Mechanic,Amboori,695505,Trivandrum ,300,36,Male ,1.1
+Keerthana,Blacksmith,Anad,695544,Trivandrum ,1350,41,Female ,3.9
+Lekha,Carpentry,Anakudy,695606,Trivandrum ,1200,31,Female ,2.4
+Manu,Fence Installer,Anappara,695551,Trivandrum ,1300,49,Male,4.4
+Nandana,Welder,Anathalavattom,695306,Trivandrum ,1400,45,Female ,4.2
+Ojas,Mechanic,Anavoor,695124,Trivandrum ,550,32,Male,4
+Pranav,Cabinetmaker,Anayara,695029,Trivandrum ,1150,40,Male,4.9
+Qamar,Concrete Finisher,Andoorkonam,695584,Trivandrum ,400,29,Male,3.8
+Riya,Electrician,Anjengo,695309,Trivandrum ,1050,42,Female ,4.1
+Sreeja,Carpet Installer,Aralumoodu,695123,Trivandrum ,850,35,Female ,2.2
+Tarun,Roofing Worker,Aramada,695032,Trivandrum ,1450,37,Male ,1.9
+Usha,Landscaper,Arayur,695122,Trivandrum ,650,44,Female ,2.8
+Varun,Painter,Arumanoor,695525,Trivandrum ,750,28,Male ,1.6
+Winnie,Stonemason,Aruvikara,695564,Trivandrum ,1250,33,Female ,4.8
+Xena,Solar Panel Installer,Aruvipuram,695126,Trivandrum ,300,46,Female ,1.7
+Yash,Welder,Aryanad,695542,Trivandrum ,550,50,Male,3
+Zara,Locksmith,Attakulangara,695023,Trivandrum ,1000,38,Female ,2.7
+Abhishek,Blacksmith,Attingal,695101,Trivandrum ,950,30,Male ,3
+Bhavana,Septic Tank Servicer,Attukal,695009,Trivandrum ,900,29,Female ,3.5
+Chitra,Plumber,Avanavancherry,695103,Trivandrum ,1050,47,Female ,2.1
+Dinesh,Landscaper,Ayilam,695103,Trivandrum ,1300,40,Male,4.5
+Ekta,Ironworker,Ayira,695502,Trivandrum ,1400,44,Female ,2.1
+Fathima,Mechanic,Ayroor-varkala,695310,Trivandrum ,800,34,Female ,1.5
+Girish,Flooring Installer,Azhurmarket,695305,Trivandrum ,1450,48,Male,1.6
+Hema,Electrician,Balaramapuram,695501,Trivandrum ,1050,42,Female ,3.5
+Ishaan,Concrete Finisher,Beemapally,695008,Trivandrum ,1200,45,Male,3
+Karthik,Mechanic,Bhagavathinada,695501,Trivandrum ,1400,28,Male,3.1
+Lakshmi,Fence Installer,Bharathannur,695616,Trivandrum ,850,36,Female ,4
+Madhav,Upholsterer,Bonaccord,695557,Trivandrum ,750,31,Male,1.1
+Nisha,Roofing Worker,Cgo Complex poonkulam,695522,Trivandrum ,450,39,Female ,4.7
+Omkar,Carpet Installer,Chaikkottukonam,695122,Trivandrum ,1150,50,Male,3.3
+Prithvi,Cabinetmaker,Chakkai,695024,Trivandrum ,600,37,Male,1.6
+Queenie,Painter,Changa,695542,Trivandrum ,1450,32,Female ,1.4
+Rahul,Carpentry,Channamkara,695315,Trivandrum ,1350,43,Male,4.6
+Sangeetha,Stonemason,Charupara,695601,Trivandrum ,1100,41,Female ,1.8
+Tejas,Solar Panel Installer,Cheeranikkara,695615,Trivandrum ,900,46,Male,4.7
+Uma,Plumber,Chekkakonam,695564,Trivandrum ,550,35,Female ,2.4
+Vivek,Electrician,Chempazhanthy,695587,Trivandrum ,700,38,Male,3.9
+Xyla,Locksmith,Chenkal,695132,Trivandrum ,800,28,Male,2.5
+Yuvraj,Concrete Finisher,Cheriakolla,695504,Trivandrum ,400,49,Male,4.9
+Zainab,Ironworker,Cheriyakonni,695013,Trivandrum ,1050,33,Female,2.1
+Anjana,Welder,Cherunniyur,695142,Trivandrum ,650,30,Male,2.4
+Bharath,Blacksmith,Cheruvarakonam,695502,Trivandrum ,950,37,Female,4.3
+Charulatha,Mechanic,Cheruvikkal,695011,Trivandrum ,850,40,Male,1
+Deepak,Landscaper,Chettachal,695551,Trivandrum ,1100,31,Female,4.2
+Elsa,Mechanic,Chilakur,695141,Trivandrum ,1200,45,Male ,3.1
+Farhan,Fence Installer,Chirayinkeezhu,695304,Trivandrum ,300,34,Female ,4.4
+Geetha,Septic Tank Servicer,Chittattumukku,695588,Trivandrum ,750,42,Male ,4.2
+Hareesh,Flooring Installer,Chowara,695501,Trivandrum ,1050,28,Female ,1.9
+Indira,Roofing Worker,Chullimanoor,695541,Trivandrum ,1350,36,Male ,2.1
+Kiran,Cabinetmaker,Cotton Hill,695014,Trivandrum ,450,47,Female ,1.7
+Lakshman,Upholsterer,Daivapura,695563,Trivandrum ,1000,50,Female ,2.5
+Megha,carpentry,Dalmughom,695125,Trivandrum ,1150,32,Male ,1.1
+Neeraj,Painter,Dhanuvachapuram,695503,Trivandrum ,550,29,Female ,3.9
+Priya,Stonemason,Edakode,695104,Trivandrum ,1450,41,Male ,1.2
+Rohan,Electrician,Edava,695311,Trivandrum ,1400,39,Female ,2.8
+Shalini,Solar Panel Installer,Elakamon,695310,Trivandrum ,600,46,Female ,2.4
+Tanvi,Locksmith,Elakamon-kizhakkepuram,695310,Trivandrum ,850,48,Male ,3.5
+Uday,Fence Installer,Elavattom,695562,Trivandrum ,750,35,Male ,4.1
+Vijay,Mechanic,Elluvila,695504,Trivandrum ,1300,33,Female ,1.1
+Xander,Concrete Finisher,Ex-servicemen's Colony,695562,Trivandrum ,1050,38,Female ,3.2
+Yashoda,Plumber,Goureesapattom,695004,Trivandrum ,1450,44,Female ,3
+Zoya,Blacksmith,Hariharapuram,695310,Trivandrum ,950,28,Male ,1.6
+Anoop,Mechanic,Idinjar,695563,Trivandrum ,850,30,Female,4.4
+Bhavya,Ironworker,Ilamba,695103,Trivandrum ,550,49,Female,4.7
+Chaitanya,Flooring Installer,Ilanchiyam,695563,Trivandrum ,400,37,Female,1.9
+Divya,Septic Tank Servicer,Industrial Estate,695019,Trivandrum ,1200,40,Female,4.5
+Esha,Roofing Worker,Irinchayam,695561,Trivandrum ,300,31,Male ,3.4
+Feroz,Cabinetmaker,Iroorpara,695584,Trivandrum ,1150,45,Female ,3.1
+Ganga,Carpentry,Jagathy,695014,Trivandrum ,1450,34,Male ,4
+Hemanth,Landscaper,Janardhanapuram,695141,Trivandrum ,700,42,Female ,4.3
+Ila,Upholsterer,Kachani,695013,Trivandrum ,1100,29,Male ,1.8
+Karan,Welder,Kadakkavur,695306,Trivandrum ,1050,36,Female ,4.5
+Lavanya,Painter,Kaikara,695307,Trivandrum ,800,47,Male ,1.5
+Mohan,Electrician,Kaimanam,695040,Trivandrum ,1250,50,Female ,3.9
+Nandini,Stonemason,Kaithamukku,695024,Trivandrum ,1350,32,Male ,1.4
+Om,Solar Panel Installer,Kakkavila,695506,Trivandrum ,950,38,Female ,3.4
+Pooja,Locksmith,Kalamachal,695606,Trivandrum ,450,41,Male ,3.3
+Rakesh,Blacksmith,Kallambalam,695605,Trivandrum ,550,39,Female ,2.8
+Sneha,Plumber,Kallar Tvm,695551,Trivandrum ,850,46,Female ,3.7
+Tejaswini,Fence Installer,Kallara,695608,Trivandrum ,1450,48,Male ,4.1
+Utkarsh,Mechanic,Kallayam,695043,Trivandrum ,750,35,Male ,4.5
+Vinod,Concrete Finisher,Kalliyal,695574,Trivandrum ,1050,33,Female ,3.5
+Xavi,Mechanic,Kalliyoor,695042,Trivandrum ,300,28,Female ,1
+Yamini,Ironworker,Kanchinada,695609,Trivandrum ,1100,44,Male ,2.9
+Zain,Carpet Installer,Kandala,695512,Trivandrum ,1200,30,Female ,4.9
+Anjali,Roofing Worker,Kaniyapuram,695301,Trivandrum ,600,49,Male ,1.7
+Balaji,Cabinetmaker,Kanjampazhanji,695525,Trivandrum ,1400,37,Female ,2.5
+Chaya,Septic Tank Servicer,Kanjiramkulam,695524,Trivandrum ,650,40,Male ,4.4
+Devi,Landscaper,Kanjirampara,695030,Trivandrum ,900,31,Male ,3.1
+Eswar,Welder,Kappil,695311,Trivandrum ,1450,45,Female ,4
+Fiza,Carpentry,Karakonam,695504,Trivandrum ,800,34,Male,2.5
+Ganesh,Flooring Installer,Karakulam,695564,Trivandrum ,750,42,Male,3.5
+Hamsa,Painter,Karamana,695002,Trivandrum ,1350,29,Male,1.4
+Irfan,Electrician,Karavaram,695605,Trivandrum ,1000,36,Female ,1.7
+Kavya,Stonemason,Karikuzhi,695505,Trivandrum ,1050,47,Female ,5
+Lalitha,Solar Panel Installer,Karimanal,695583,Trivandrum ,550,50,Male ,3.7
+Manoj,Locksmith,Karimancode,695562,Trivandrum ,700,32,Male ,3.4
+Naveen,Blacksmith,Karimkuttikara,695606,Trivandrum ,450,38,Female ,2.8
+Oviya,Plumber,Karipur,695541,Trivandrum ,850,41,Male ,4.2
+Pradeep,Fence Installer,Karode,695506,Trivandrum ,1150,39,Male ,2.9
+Rajesh,Mechanic,Karumom,695002,Trivandrum ,1450,46,Female ,4.5
+Sujatha,Concrete Finisher,Karyavattom,695581,Trivandrum ,600,48,Male ,5
+Tharun,Mechanic,Katakam,695304,Trivandrum ,1200,35,Male ,2.6
+Vishal,Roofing Worker,Kattachalkuzhy,695509,Trivandrum ,1050,33,Male ,1.8
+Xavier,Cabinetmaker,Kattacode,695572,Trivandrum ,550,28,Male ,4.4
+Yashwanth,Upholsterer,Kattaikonam,695584,Trivandrum ,750,44,Male ,1.9
+Arjun,Landscaper,Kattakada,695572,Trivandrum ,300,30,Female ,2.8
+Bhadra,Septic Tank Servicer,Kattumpuram,695608,Trivandrum ,1300,49,Male ,2.3
+Chetan,carpentry,Kaudiar,695003,Trivandrum ,800,37,Female ,2.7
+Disha,Welder,Kaudiar Square,695003,Trivandrum ,1400,40,Male ,4.1
+Eshwar,Flooring Installer,Kavalayur,695144,Trivandrum ,950,31,Female ,3.3
+Farida,Painter,Kazhakuttam,695582,Trivandrum ,850,45,Male ,2.8
+Gautham,Electrician,Kazhavur,695526,Trivandrum ,1050,34,Female ,2.4
+Haritha,Stonemason,Keezharur,695130,Trivandrum ,550,42,Female ,3.4
+Isha,Solar Panel Installer,Keezhattingal,695101,Trivandrum ,700,29,Female ,2.3
+Kavitha,Locksmith,Kerala Governor's camp,695099,Trivandrum ,1450,36,Female ,3.9
+Lakshya,Blacksmith,Kidarakuzhy,695523,Trivandrum ,1100,47,Female ,2.4
+Meera,Plumber,Kilimanur,695601,Trivandrum ,450,50,Male ,4
+Nandakumar,Mechanic,Kilimanur Palace,695601,Trivandrum ,600,32,Female ,4.2
+Omana,Ironworker,Kizhuvalam,695104,Trivandrum ,750,38,Male ,2.8
+Prakash,Concrete Finisher,Kochuvila,695563,Trivandrum ,1350,41,Male ,3.5
+Raju,Fence Installer,Kodithookiyakunnu,695608,Trivandrum ,1050,39,Male ,2.2
+Snehal,Roofing Worker,Kodunganur,695013,Trivandrum ,1200,46,Female ,4
+Tanisha,Cabinetmaker,Kodungavila,695123,Trivandrum ,400,48,Male ,3.8
+Umesh,Upholsterer,Koduvazhannur,695612,Trivandrum ,950,35,Female ,3.4
+Vidya,Mechanic,Koithurkonam,695584,Trivandrum ,550,33,Male ,1.7
+Yuvan,Landscaper,Kokkotela,695542,Trivandrum ,1450,28,Male ,1.1
+Akhil,Welder,Kokkottukonam,695604,Trivandrum ,800,44,Female ,4.8
+Bhagya,Carpentry,Koliakode,695607,Trivandrum ,1050,30,Female ,4.3
+Chitralekha,Flooring Installer,Kollode,695571,Trivandrum ,700,49,Female ,4.3
+Deepika,Painter,Konchira,695615,Trivandrum ,1350,37,Male ,2.1
+Elavarasan,Electrician,Koonanvenga,695560,Trivandrum ,300,40,Male ,3.5
+Gopal,Stonemason,Koonthallur,695304,Trivandrum ,850,31,Female ,4.1
+Harini,Solar Panel Installer,Koothali(tvm),695505,Trivandrum ,1200,45,Female ,2.2
+Krishna,Locksmith,Kottackal (tvm),695124,Trivandrum ,600,34,Female ,4.9
+Latha,Blacksmith,Kottakkakom,695542,Trivandrum ,1100,42,Male ,2.2
+Manish,Plumber,Kottapuram,695521,Trivandrum ,750,29,Female ,2
+Naveena,Mechanic,Kottoor(tvm),695574,Trivandrum ,1450,36,Female ,3
+Ovi,Ironworker,Kottukal,695501,Trivandrum ,1300,47,Female ,2
+Pranaya,Concrete Finisher,Achencoil,689696,Kollam ,550,50,Male ,4.7
+Suman,Fence Installer,Adichanallur,691573,Kollam ,1050,32,Female ,3.7
+Tanmay,Roofing Worker,Aduthala,691579,Kollam ,850,38,Female ,1.8
+Urmila,Cabinetmaker,Akkal,691516,Kollam ,950,41,Male ,4.2
+Yashasvi,Upholsterer,Alayamon,691306,Kollam ,400,39,Female ,3
+Zeba,Landscaper,Alumkadavu,690573,Kollam ,750,46,Male ,2.1
+Arun,Septic Tank Servicer,Alumoodu,691577,Kollam ,800,48,Female ,2.6
+Chaitra,Carpentry,Alumpeedika,690547,Kollam ,450,35,Male ,2.9
+Dev,Welder,Ambalakkara,691532,Kollam ,1150,33,Male ,4
+Eshaan,Flooring Installer,Ambalathinnirappu,691508,Kollam ,1400,28,Female ,1.4
+Gayathri,Painter,Ambalathumbhagom,690520,Kollam ,1050,44,Male ,1
+Hari,Electrician,Ambalathumkala,691505,Kollam ,850,30,Female ,2.2
+Ishaani,Stonemason,Ambanad,691309,Kollam ,550,49,Male ,1.7
+Kamal,Solar Panel Installer,Ambipoika,691501,Kollam ,1450,37,Female ,2.3
+Manisha,Locksmith,Amrithapuri,690525,Kollam ,1100,40,Female ,3.7
+Rama,Blacksmith,Anakottur,691505,Kollam ,300,31,Female ,2.3
+Surya,Plumber,Anakulam,691311,Kollam ,1200,45,Female ,3
+Uttara,Mechanic,Anapettakongal,691307,Kollam ,700,34,Male ,4.9
+Vishnu,Ironworker,Anayadi,690561,Kollam ,950,42,Female ,3
+Chetna,Concrete Finisher,Anchal,691306,Kollam ,800,29,Female ,1
+Eshita,Fence Installer,Andoor,691532,Kollam ,600,36,Female ,4.6
+Gayatri,Roofing Worker,Areeplachy,691333,Kollam ,1050,47,Male ,4.6
+Mohit,Cabinetmaker,Arinallur,690538,Kollam ,1300,50,Male ,1.4
+Prasad,Upholsterer,Arinallur South,690538,Kollam ,550,32,Male,3.8
+Raj,Mechanic,Arkannur,691533,Kollam ,1450,38,Female ,1.7
+Swathi,Landscaper,Aryankavu,691309,Kollam ,850,41,Female ,2.3
+Tanushree,Welder,Ashtamudi,691602,Kollam ,1150,39,Female ,3.5
+Vinita,Carpentry,Asramom,691002,Kollam ,400,46,Male ,1.7
+Akshay,Flooring Installer,Athinad North,690542,Kollam ,750,48,Female ,1.7
+Bhagirathi,Painter,Avaneeswaram,691508,Kollam ,1350,35,Male ,2
+Chirag,Electrician,Avaneeswaram RS,691508,Kollam ,1050,33,Male ,2.6
+Faiz,Stonemason,Ayathil,691021,Kollam ,850,28,Male ,4
+Gaurav,Solar Panel Installer,Ayilara,691312,Kollam ,600,44,Male ,4.5
+Iqbal,Locksmith,Ayirakuzhy,691559,Kollam ,1100,30,Female ,4.6
+Kavita,Blacksmith,Ayiranallur,691307,Kollam ,800,49,Male ,3.9
+Laxman,Plumber,Ayur,691533,Kollam ,1450,37,Female ,4
+Meenakshi,Mechanic,Azheekkalthura,690547,Kollam ,550,40,Male ,1.8
+Nithin,Ironworker,Bharatheepuram,691312,Kollam ,700,31,Male ,2.9
+Prathap,Concrete Finisher,Bhoothakulam,691302,Kollam ,300,45,Female ,1.3
+Shreya,Fence Installer,Chadayamangalam,691534,Kollam ,950,34,Male ,2.3
+Xerxes,Roofing Worker,Chakkuvarakkal,691508,Kollam ,1200,42,Female ,2.4
+Yashika,Cabinetmaker,Chandanathope,691014,Kollam ,1050,29,Male ,2
+Bhaskar,Upholsterer,Channapettah,691311,Kollam ,750,36,Female ,1.7
+Dhanya,Landscaper,Channappara,691536,Kollam ,1400,47,Female ,1.6
+Eesha,Septic Tank Servicer,Chariparabu,691536,Kollam ,850,50,Male ,3.8
+Faheem,Carpentry,Chathakulam,690520,Kollam ,550,32,Female ,3.3
+Harsha,Welder,Chathannur,691572,Kollam ,1350,38,Male ,1
+Keshav,Flooring Installer,Chavara,691583,Kollam ,1150,41,Female ,4
+Lekshmi,Painter,Chavara Bridge,691583,Kollam ,600,39,Male ,2.2
+Praveen,Electrician,Chavara South,691584,Kollam ,1100,46,Female ,3.7
+Swetha,Stonemason,Chembanaruvi,689696,Kollam ,800,48,Male ,2.3
+Vignesh,Solar Panel Installer,Chemmakkad,691601,Kollam ,1450,35,Female ,1.8
+Bhanu,Locksmith,Chengamanad Jn,691557,Kollam ,1050,33,Female ,2
+Deepthi,Blacksmith,Chenkulam,691510,Kollam ,450,28,Male ,1.9
+Govind,Plumber,Cheppara,691520,Kollam ,700,44,Male,2.7
+Ishan,Mechanic,Cheriyavelinallur,691516,Kollam ,300,30,Female ,4.6
+Kalyani,Ironworker,Cheriyazheekal,690573,Kollam ,950,49,Female ,3.4
+Navya,Concrete Finisher,Cherukulam,691306,Kollam ,1200,37,Male,3.1
+Rajan,Fence Installer,Cherupoika,691543,Kollam ,1050,40,Female ,2.7
+Sushma,Mechanic,Cheruvakkal,691533,Kollam ,750,31,Female ,1.2
+Tanya,Roofing Worker,Chirakkara,691578,Kollam ,1400,45,Male ,3.2
+Vimal,Cabinetmaker,Chirakkarathazham,691578,Kollam ,550,34,Male,1.3
+An,Upholsterer,Chithara,691559,Kollam ,850,42,Female ,1.6
+Aarav,Carpentry,Adayamon,695614,Trivandrum ,650,61,Male,2.7
+Aditi,Plumber,Alamcode,695102,Trivandrum ,800,54,Female,4.9
+Akhil,Electrician,Aliyadu,695607,Trivandrum ,900,59,Male,2.9
+Aisha,Grass Cutter,Altharamoodu,695102,Trivandrum ,700,57,Female,3.6
+Ananya,Coconut Climber,Amachal,695572,Trivandrum ,800,55,Female,4.5
+Anoop,Carpentry,Amaravila,695122,Trivandrum ,1000,66,Male,1.8
+Arjun,Painter,Ambalamukku,695005,Trivandrum ,600,36,Male,2.9
+Arya,Masonry,Ambalathara,695026,Trivandrum ,800,40,Female,2.8
+Ashwin,Driver,Ambalathinkala,695572,Trivandrum ,900,42,Male,2
+Athira,Wood Cutter,Amboori,695505,Trivandrum ,700,45,Female,4.2
+Devika,Electrician,Anad,695544,Trivandrum ,800,47,Female,2
+Gaurav,Home Nurse,Anakudy,695606,Trivandrum ,1000,49,Male,1.3
+Geethika,Maid,Anappara,695551,Trivandrum ,600,31,Female,2.4
+Gopal,Plumber,Anathalavattom,695306,Trivandrum ,800,29,Male,4.4
+Harini,Electrician,Anavoor,695124,Trivandrum ,900,31,Female,2.2
+Harsha,Grass Cutter,Anayara,695029,Trivandrum ,700,29,Male,3.4
+Ishaan,Coconut Climber,Andoorkonam,695584,Trivandrum ,800,31,Male,4.1
+Janaki,Carpentry,Anjengo,695309,Trivandrum ,1000,33,Female,2.1
+Jay,Painter,Aralumoodu,695123,Trivandrum ,600,56,Male,2.4
+Kavya,Masonry,Aramada,695032,Trivandrum ,800,54,Female,4.3
+Kiran,Driver,Arayur,695122,Trivandrum ,900,33,Male,1.6
+Krishna,Wood Cutter,Arumanoor,695525,Trivandrum ,700,55,Male,3.5
+Lakshmi,Electrician,Aruvikara,695564,Trivandrum ,800,54,Female,3.8
+Mahesh,Home Nurse,Aruvipuram,695126,Trivandrum ,1000,38,Male,3.8
+Maya,Maid,Aryanad,695542,Trivandrum ,600,41,Female,3.4
+Mohan,Plumber,Attakulangara,695023,Trivandrum ,800,45,Male,3.6
+Nandini,Electrician,Attingal,695101,Trivandrum ,900,46,Female,2.1
+Nikhil,Grass Cutter,Attukal,695009,Trivandrum ,700,48,Male,4.3
+Nithya,Coconut Climber,Avanavancherry,695103,Trivandrum ,800,55,Female,5
+Pranav,Carpentry,Ayilam,695103,Trivandrum ,1000,29,Male,4
+Priya,Painter,Ayira,695502,Trivandrum ,600,31,Female,3.1
+Rahul,Masonry,Ayroor-varkala,695310,Trivandrum ,800,29,Male,4
+Rhea,Driver,Azhurmarket,695305,Trivandrum ,900,31,Female,2.7
+Rohan,Wood Cutter,Balaramapuram,695501,Trivandrum ,700,33,Male,4.5
+Roshni,Electrician,Beemapally,695008,Trivandrum ,800,56,Female,2.5
+Sachin,Home Nurse,Bhagavathinada,695501,Trivandrum ,1000,54,Male,3.8
+Sahana,Maid,Bharathannur,695616,Trivandrum ,600,33,Female,3.7
+Sanjay,Plumber,Bonaccord,695557,Trivandrum ,800,55,Male,4
+Sara,Electrician,Cgo Complex poonkulam,695522,Trivandrum ,900,54,Female,1.1
+Satish,Grass Cutter,Chaikkottukonam,695122,Trivandrum ,700,29,Male,1.5
+Shreya,Coconut Climber,Chakkai,695024,Trivandrum ,800,31,Female,4
+Siddharth,Carpentry,Changa,695542,Trivandrum ,1000,29,Male,1.7
+Sneha,Painter,Channamkara,695315,Trivandrum ,600,31,Female,3.9
+Sreejith,Masonry,Charupara,695601,Trivandrum ,800,33,Male,1
+Sujatha,Driver,Cheeranikkara,695615,Trivandrum ,900,56,Female,1.8
+Suman,Wood Cutter,Chekkakonam,695564,Trivandrum ,700,54,Male,3.9
+Sunitha,Electrician,Chempazhanthy,695587,Trivandrum ,800,33,Female,4.7
+Suraj,Home Nurse,Chenkal,695132,Trivandrum ,1000,55,Male,1.6
+Swathi,Maid,Cheriakolla,695504,Trivandrum ,600,54,Male,4.5
+Tanvi,Plumber,Cheriyakonni,695013,Trivandrum ,800,29,Female,1.9
+Tarun,Electrician,Cherunniyur,695142,Trivandrum ,900,31,Male,1
+Tejas,Grass Cutter,Cheruvarakonam,695502,Trivandrum ,700,29,Male,3.4
+Uma,Coconut Climber,Cheruvikkal,695011,Trivandrum ,800,31,Female,1.3
+Unnikrishnan,Carpentry,Chettachal,695551,Trivandrum ,1000,33,Female,1.1
+Vaishnavi,Painter,Chilakur,695141,Trivandrum ,600,56,Male,3.4
+Varun,Masonry,Chirayinkeezhu,695304,Trivandrum ,800,54,Female,1.4
+Vedika,Driver,Chittattumukku,695588,Trivandrum ,900,33,Male,2.1
+Veena,Wood Cutter,Chowara,695501,Trivandrum ,700,55,Male,4.8
+Vignesh,Electrician,Chullimanoor,695541,Trivandrum ,800,54,Female,4.1
+Vishnu,Home Nurse,Cotton Hill,695014,Trivandrum ,1000,33,Female,2.4
+Vivek,Maid,Daivapura,695563,Trivandrum ,600,55,Male,4.7
+Yash,Plumber,Dalmughom,695125,Trivandrum ,800,54,Female,4.4
+Aalia,Electrician,Dhanuvachapuram,695503,Trivandrum ,900,29,Male,4.2
+Abhinav,Grass Cutter,Edakode,695104,Trivandrum ,700,31,Female,3.4
+Aditi,Coconut Climber,Edava,695311,Trivandrum ,800,29,Female,1.4
+Ajay,Carpentry,Elakamon,695310,Trivandrum ,1000,31,Male,2.2
+Akshara,Painter,Elakamon-kizhakkepuram,695310,Trivandrum ,600,33,Male,2.9
+Akshay,Masonry,Elavattom,695562,Trivandrum ,800,56,Female,5
+Amrita,Driver,Elluvila,695504,Trivandrum ,900,54,Female,1.7
+Anand,Wood Cutter,Ex-servicemen's Colony,695562,Trivandrum ,700,33,Female,4.9
+Anjali,Electrician,Goureesapattom,695004,Trivandrum ,800,55,Male,1.9
+Ankit,Home Nurse,Hariharapuram,695310,Trivandrum ,1000,54,Female,4
+Anushka,Maid,Idinjar,695563,Trivandrum ,600,29,Male,4.6
+Arnav,Plumber,Ilamba,695103,Trivandrum ,800,55,Female,3.7
+Asha,Electrician,Ilanchiyam,695563,Trivandrum ,900,28,Male,2.5
+Avinash,Grass Cutter,Industrial Estate,695019,Trivandrum ,700,47,Female,4.3
+Bhavya,Coconut Climber,Irinchayam,695561,Trivandrum ,800,55,Male,2.7
+Chetan,Carpentry,Iroorpara,695584,Trivandrum ,1000,29,Male,5
+Deepa,Maid,Jagathy,695014,Trivandrum ,600,31,Male,3.9
+Deepak,Carpentry,Janardhanapuram,695141,Trivandrum ,600,33,Female,1.1
+Dhanya,Painter,Kachani,695013,Trivandrum ,800,56,Male,2.3
+Divya,Masonry,Kadakkavur,695306,Trivandrum ,900,54,Male,1.8
+Ganesh,Driver,Kaikara,695307,Trivandrum ,700,33,Female,3.3
+Gayathri,Wood Cutter,Kaimanam,695040,Trivandrum ,800,45,Male,1
+Girish,Electrician,Kaithamukku,695024,Trivandrum ,600,35,Female,3.8
+Gowri,Carpentry,Kakkavila,695506,Trivandrum ,800,52,Female,3.5
+Hema,Painter,Kalamachal,695606,Trivandrum ,900,28,Male,4.4
+Inder,Masonry,Kallambalam,695605,Trivandrum ,700,65,Female,4.5
+Indira,Driver,Kallar Tvm,695551,Trivandrum ,800,45,Female,4.1
+Jaideep,Wood Cutter,Kallara,695608,Trivandrum ,600,42,Male,3.3
+Janani,Electrician,Kallayam,695043,Trivandrum ,800,52,Male,1.1
+Jayesh,Carpentry,Kalliyal,695574,Trivandrum ,900,36,Male,3
+Jyothi,Painter,Kalliyoor,695042,Trivandrum ,700,37,Female,2.6
+Kalyan,Masonry,Kanchinada,695609,Trivandrum ,800,45,Male,4.3
+Kavitha,Driver,Kandala,695512,Trivandrum ,600,35,Male,4.4
+Kiran,Wood Cutter,Kaniyapuram,695301,Trivandrum ,800,52,Female,2.9
+Krithika,Electrician,Kanjampazhanji,695525,Trivandrum ,900,28,Female,3.6
+Latha,Painter,Kanjiramkulam,695524,Trivandrum ,700,65,Female,1.5
+Madhav,Plumber,Kanjirampara,695030,Trivandrum ,800,45,Female,3.1
+Madhu,Electrician,Kappil,695311,Trivandrum ,600,42,Male,3
+Madhuri,hinican,Karakonam,695504,Trivandrum ,800,52,Male,2.7
+Mahesh,Printing,Karakulam,695564,Trivandrum ,900,36,Female,1.2
+Malavika,Carpentry,Karamana,695002,Trivandrum ,700,37,Male,4.6
+Manish,Plumber,Karavaram,695605,Trivandrum ,800,37,Male,1.3
+Meenakshi,Painter,Karikuzhi,695505,Trivandrum ,1000,45,Male,4.2
+Mithun,Wood Cutter,Karimanal,695583,Trivandrum ,500,35,Female,3.3
+Mythri,Wood Cutter,Karimancode,695562,Trivandrum ,550,52,Female,2.9
+Naveen,Electrician,Karimkuttikara,695606,Trivandrum ,800,37,Male,4.5
+Neelima,Maid,Karipur,695541,Trivandrum ,600,40,Female,1.4
+Neha,Masonry,Karode,695506,Trivandrum ,500,31,Male,3.1
+Nidhi,Masonry,Karumom,695002,Trivandrum ,600,45,Female,1.9
+Nihar,Masonry,Karyavattom,695581,Trivandrum ,700,34,Male,2.3
+Niranjana,Maid,Katakam,695304,Trivandrum ,1000,42,Female,3.7
+Nisha,Maid,Kattachalkuzhy,695509,Trivandrum ,500,28,Male,1.9
+Nithin,Maid,Kattacode,695572,Trivandrum ,1000,36,Female,3.7
+Pallavi,Plumber,Kattaikonam,695584,Trivandrum ,750,47,Male,1.6
+Pavithra,Painter,Kattakada,695572,Trivandrum ,650,50,Female,3.9
+Pradeep,Wood Cutter,Kattumpuram,695608,Trivandrum ,550,32,Female,3.7
+Pragati,Wood Cutter,Kaudiar,695003,Trivandrum ,650,29,Female,3
+Preeti,Painter,Kaudiar Square,695003,Trivandrum ,550,41,Male,1.4
+Prem,Wood Cutter,Kavalayur,695144,Trivandrum ,1000,39,Male,3.8
+Priyanka,Wood Cutter,Kazhakuttam,695582,Trivandrum ,500,46,Female,4.6
+Rajan,Electrician,Kazhavur,695526,Trivandrum ,1000,48,Female,1.3
+Rajani,Maid,Keezharur,695130,Trivandrum ,1000,35,Male,1.4
+Rajesh,Masonry,Keezhattingal,695101,Trivandrum ,500,33,Female,2.2
+Ranjith,Masonry,Kerala Governor's camp,695099,Trivandrum ,1000,38,Male,3.9
+Ravi,Masonry,Kidarakuzhy,695523,Trivandrum ,750,44,Female,3
+Revathi,Maid,Kilimanur,695601,Trivandrum ,650,28,Male,3.1
+Rohini,Maid,Kilimanur Palace,695601,Trivandrum ,550,30,Male,1.2
+Roshan,Maid,Kizhuvalam,695104,Trivandrum ,650,49,Female,1.6
+Sahil,Plumber,Kochuvila,695563,Trivandrum ,550,37,Male,4.7
+Sakshi,Painter,Kodithookiyakunnu,695608,Trivandrum ,800,40,Female,2.3
+Sandeep,Wood Cutter,Kodunganur,695013,Trivandrum ,600,31,Male,1.1
+Sandhya,Wood Cutter,Kodungavila,695123,Trivandrum ,500,45,Male,4.2
+Sanjay,Maid,Koduvazhannur,695612,Trivandrum ,600,34,Female,1.1
+Sanjana,Electrician,Koithurkonam,695584,Trivandrum ,700,42,Male,2.4
+Santosh,Maid,Kokkotela,695542,Trivandrum ,1000,29,Male,3.9
+Saranya,Maid,Kokkottukonam,695604,Trivandrum ,500,36,Female,3.2
+Sasi,Painter,Koliakode,695607,Trivandrum ,1000,47,Male,5
+Sathisha,Maid,Kollode,695571,Trivandrum ,750,50,Female,4.5
+Seema,Masonry,Konchira,695615,Trivandrum ,650,32,Female,3.5
+Shalini,Maid,Koonanvenga,695560,Trivandrum ,550,38,Female,1.6
+Shankar,Maid,Koonthallur,695304,Trivandrum ,650,41,Male,2.3
+Sharmila,Painter,Koothali(tvm),695505,Trivandrum ,550,39,Female,4.1
+Shashi,Maid,Kottackal (tvm),695124,Trivandrum ,1000,46,Male,1.9
+Sheela,Maid,Kottakkakom,695542,Trivandrum ,500,48,Female ,3.7
+Shreeram,Maid,Kottapuram,695521,Trivandrum ,1000,35,Male ,4.4
+Shruti,Plumber,Kottoor(tvm),695574,Trivandrum ,750,33,Female,1.5
+Shyam,Painter,Kottukal,695501,Trivandrum ,650,28,Male,1.9
+Sindhu,Painter,Achencoil,689696,Kollam ,550,44,Female ,2.4
+Snehal,Maid,Adichanallur,691573,Kollam ,750,30,Male,3.9
+Sowmya,Electrician,Aduthala,691579,Kollam ,650,49,Female ,1.8
+Sravan,Painter,Akkal,691516,Kollam ,550,37,Male ,3.7
+Muthu,Plumber,Kallekulangara,678009,Palakkad,800,38,Male,2
+Kavya,Plumber,Kallepulli,678005,Palakkad,900,42,Female,1
+Lakshmi,Electrician,Kallipadam,679122,Palakkad,700,34,Female,1.3
+Ammu,Grass Cutter,Kallur-palakkad,678613,Palakkad,800,29,Female,4.3
+Santha,Coconut Climber,Kalluvazhi,679514,Palakkad,1000,55,Female,2.5
+Sobha,Carpentry,Kalpathi,678003,Palakkad,600,60,Female,3.6
+Devaki,Painter,Kanakkanthuruthy,678683,Palakkad,800,59,Female,1.6
+Kalyani,Masonry,Kanayam,679122,Palakkad,900,63,Female,4.7
+Mayavathi,Driver,Kandamangalam,678583,Palakkad,700,45,Female,3
+Mahalakshmi,Wood Cutter,Kanhikulam,678596,Palakkad,800,48,Female,2.2
+Padmavathi,Plumber,Kanhirapuzha,678591,Palakkad,900,42,Female,1.3
+Sujatha,Electrician,Kanimangalam,678508,Palakkad,700,58,Female,2.2
+Pressanna,Grass Cutter,Kanjikode,678621,Palakkad,800,47,Female,3.4
+Manjusha,Coconut Climber,Kannadi,678701,Palakkad,1000,48,Female,4.9
+Meena,Carpentry,Kannambra,678686,Palakkad,600,36,Female,3.2
+Kiran,Painter,Kannanur,678702,Palakkad,800,46,Male,1.7
+Varun,Masonry,Kanniampuram,679104,Palakkad,900,62,Male,5
+Sudhin,Driver,Kannimari,678534,Palakkad,700,38,Male,3.8
+Subin,Wood Cutter,Kappur,679552,Palakkad,800,42,Male,1.8
+Akash,Plumber,Karakurissi,678595,Palakkad,900,34,Male,4.9
+Adarsh,Electrician,Karalmanna,679506,Palakkad,700,29,Male,2
+Vinu,Grass Cutter,Karambathur,679305,Palakkad,800,55,Male,1
+Vishnu,Coconut Climber,Karara,678581,Palakkad,1000,60,Male,1.1
+Damodharan,Carpentry,Karattukurissi,679503,Palakkad,600,59,Male,3.3
+Lakshmanan,Painter,Karimba,678597,Palakkad,800,63,Male,4.3
+Arjun,Masonry,Karimpuzha,679513,Palakkad,900,45,Male,3.7
+Jomon,Driver,Karingarapully,678551,Palakkad,700,48,Male,3.6
+Mohanan,Wood Cutter,Karinkayam,678706,Palakkad,800,42,Male,3.1
+Balakrishnan,Plumber,Karippali,678532,Palakkad,900,58,Male,1.8
+Midhun,Electrician,Karippode,678503,Palakkad,700,47,Male,2.4
+Abraham,Grass Cutter,Kariyamkode,678572,Palakkad,800,48,Male,3.4
+Murali,Coconut Climber,Karkitamkunnu,678601,Palakkad,1000,36,Male,1.1
+Babu,Carpentry,Karumanamkurissi,679504,Palakkad,600,46,Male,3.3
+Aswin,Painter,Katambazhipuram,678633,Palakkad,800,62,Male,3.7
+Sanoop,Masonry,Kattukulam,679514,Palakkad,900,32,Male,3.9
+Sandeep,Driver,Kattusseri,678542,Palakkad,700,54,Male,4.9
+Aarav,Plumber,Kottappuram,679513,Palakkad,1000,33,Male,1.8
+Abhilash,Electrician,Thottara,679513,Palakkad,600,56,Male,1.6
+Aditya,Grass Cutter,Attasseri,679513,Palakkad,600,54,Male,1.7
+Akash,Coconut Climber,Mannarkkad,678582,Palakkad,800,33,Male,3.5
+Akhil,Carpentry,Adakkaputhur B.O,679503,Palakkad,900,55,Male,1.4
+Akshay,Painter,Agali S.O,678581,Palakkad,700,54,Male,3.5
+Anand,Masonry,Akalur B.O,679302,Palakkad,800,38,Male,4.7
+Ananth,Driver,Attempathy B.O,678556,Palakkad,600,41,Male,1.9
+Anil,Wood Cutter,Athipotta,678544,Palakkad,800,45,Male,3.7
+Anoop,Plumber,Athicode,678554,Palakkad,900,46,Male,1.3
+Anuj,Electrician,Ariyur,678583,Palakkad,700,48,Male,3.8
+Aravind,Grass Cutter,Akathethara,678008,Palakkad,800,55,Male,4.6
+Arjun,Coconut Climber,Alampallam,678506,Palakkad,600,29,Male,3.8
+Arun,Carpentry,Alanallur,678601,Palakkad,800,31,Male,2.5
+Ashok,Painter,Alangad,678633,Palakkad,900,29,Male,1.1
+Balaji,Masonry,Alathur Mbr,678541,Palakkad,700,31,Male,1.9
+Binoy,Driver,Amayur,679303,Palakkad,800,33,Male,1.2
+Chaitanya,Wood Cutter,Ambalapara,679512,Palakkad,600,56,Male,3.8
+Deepak,Plumber,Anjumoorthy,678682,Palakkad,800,54,Male,1.3
+Gautham,Electrician,Ayakkad,678683,Palakkad,900,33,Male,5
+Gokul,Grass Cutter,Ayalur,678510,Palakkad,700,55,Male,3.1
+Govind,Coconut Climber,Azhiyannur,678633,Palakkad,800,54,Male,2.6
+Harish,Carpentry,Bhimanad,678601,Palakkad,600,29,Male,3.3
+Jagan,Painter,Chalavara,679505,Palakkad,800,31,Male,2
+Jagannath,Masonry,Chalisseri,679536,Palakkad,900,29,Male,2.1
+Jai,Driver,Chaliyattiri,679535,Palakkad,700,31,Male,2.1
+Jay,Wood Cutter,Chandramala Estate,678508,Palakkad,800,33,Male,3.7
+Jayan,Plumber,Chandranagar,678007,Palakkad,1000,56,Male,2.8
+Jayesh,Electrician,Chandrapuram,678624,Palakkad,500,54,Male,4.6
+Jithin,Grass Cutter,Chandrasekharapuram,678611,Palakkad,550,33,Male,4.3
+Kishore,Plumber,Changileri,678762,Palakkad,800,55,Male,3.2
+Krishna,Electrician,Chathamangalam,678508,Palakkad,600,54,Male,1.7
+Madhav,Grass Cutter,Chathanur,679535,Palakkad,500,29,Male,2.8
+Mahesh,Coconut Climber,Chavadiyur,678581,Palakkad,600,31,Male,1.9
+Manish,Carpentry,Chembra,679304,Palakkad,700,29,Male,1.7
+Manoj,Painter,Chennangad,678573,Palakkad,1000,31,Male,4.5
+Midhun,Masonry,Chenthamaranagar,678102,Palakkad,500,33,Male,1.5
+Mohan,Carpentry,Cheramangalam,678703,Palakkad,1000,56,Male,4.9
+Mukund,Painter,Cherambattakavu,679501,Palakkad,750,33,Male,4.9
+Naveen,Masonry,Cheraya,678631,Palakkad,650,56,Male,3.8
+Neeraj,Driver,Cherottur,679521,Palakkad,550,54,Male,1.8
+Nithin,Wood Cutter,Cherpalcheri,679503,Palakkad,650,33,Male,3.1
+Nitin,Electrician,Cherukattupulam,679522,Palakkad,550,55,Male,1.4
+Pradeep,Home Nurse,Cherukode,679336,Palakkad,1000,54,Male,2.7
+Prakash,Maid,Cherukulam,678572,Palakkad,500,38,Male,1.1
+Pranav,Plumber,Cherukutangad,679305,Palakkad,1000,41,Male,5
+Prasad,Electrician,Cherumundasseri,679512,Palakkad,1000,45,Male,2
+Praveen,Grass Cutter,Chethallur,678583,Palakkad,500,46,Male,1.2
+Raj,Coconut Climber,Chimbukat,678721,Palakkad,1000,48,Male,2.9
+Rajan,Carpentry,Chindaki,678582,Palakkad,750,55,Male,1.7
+Rajesh,Painter,Chithali,678702,Palakkad,650,29,Male,4
+Rakesh,Masonry,Chittadi,678706,Palakkad,550,31,Male,4.5
+Ranjit,Driver,Chittilancheri,678704,Palakkad,1000,29,Male,4.7
+Ravi,Electrician,Chittur,678581,Palakkad,600,31,Male,3.8
+Rohan,Stonemason,Chokkanathapuram,678005,Palakkad,600,33,Male,2.8
+Sajith,Solar Panel Installer,Choorakode,679336,Palakkad,800,56,Male,3.8
+Sanjay,Locksmith,Chulanur,678574,Palakkad,900,54,Male,4
+Santosh,Blacksmith,Chunangad,679511,Palakkad,700,33,Male,2.8
+Satish,Electrician,Chundampatta,679337,Palakkad,800,55,Male,5
+Senthil,Grass Cutter,Coyalmanna,678702,Palakkad,600,54,Male,2.3
+Shyam,Plumber,Dhoni,678009,Palakkad,800,29,Male,2.3
+Sreekanth,Electrician,Edakode,679522,Palakkad,900,31,Male,3.5
+Sreenath,Grass Cutter,Edathanttukara,678601,Palakkad,700,29,Male,3.9
+Sujith,Coconut Climber,Edathara,678611,Palakkad,800,31,Male,1.2
+Sunil,Carpentry,Eduppukulam,678556,Palakkad,600,33,Male,2.8
+Suresh,Painter,Elakkad,678631,Palakkad,800,56,Male,4.7
+Surya,Masonry,Elambulasseri,678595,Palakkad,900,54,Male,3.9
+Unnikrishnan,Driver,Elapulli,678622,Palakkad,700,33,Male,4.7
+Varun,Wood Cutter,Elapulli South,678622,Palakkad,800,55,Male,4
+Venu,Plumber,Elavampadam,678684,Palakkad,600,54,Male,4.9
+Vijay,Electrician,Elavancheri,678508,Palakkad,800,29,Male,4
+Vikas,Grass Cutter,Erattakulam,678682,Palakkad,900,31,Male,1.9
+Vinay,Coconut Climber,Eravakkad,679552,Palakkad,700,29,Male,4.2
+Vineeth,Carpentry,Erimayur,678546,Palakkad,800,31,Male,1.4
+Vishal,Painter,Eruttenpadi,678555,Palakkad,600,33,Male,3.3
+Vishnu,Masonry,Etapalam,679308,Palakkad,800,56,Male,4.8
+Vivek,Driver,Ettanur,678502,Palakkad,900,33,Male,1.2
+Yash,Wood Cutter,Ezhuvanthala,679335,Palakkad,700,56,Male,1.2
+Yashwant,Plumber,Gandhi Seva Sadan,679302,Palakkad,800,54,Male,4.2
+Adarsh,Electrician,Ganeshgiri,679123,Palakkad,1000,33,Male,1.4
+Alok,Grass Cutter,Govindapuram,678507,Palakkad,500,55,Male,2.7
+Amit,Coconut Climber,Irimbakachola,678591,Palakkad,550,54,Male,4.7
+Amrit,Carpentry,Irimbalasseri,679335,Palakkad,800,38,Male,1.5
+Arav,Painter,Jellipara,678581,Palakkad,600,41,Male,1.5
+Armaan,Masonry,Kacheriparamba,678601,Palakkad,500,45,Male,4
+Avinash,Driver,Kadambur,679515,Palakkad,600,46,Male,4.1
+Darshan,Wood Cutter,Kadukkamkunnu,678651,Palakkad,700,48,Male,1.8
+Dinesh,Plumber,Kaipuram,679308,Palakkad,1000,55,Male,4.8
+Eeshan,Electrician,Kairady,678510,Palakkad,500,29,Male,3
+Harsh,Grass Cutter,Kaithachira,678582,Palakkad,1000,31,Male,1.1
+Hitesh,Plumber,Kakkayur,678512,Palakkad,750,29,Male,4.6
+Jagdish,Electrician,Kalapatti,678702,Palakkad,650,31,Male,2.8
+Kapil,Grass Cutter,Kalkandi,678582,Palakkad,550,33,Male,2.5
+Karan,Coconut Climber,Kalladathur,679552,Palakkad,650,56,Male,3.9
+Karthik,Carpentry,Kalladikode,678596,Palakkad,550,54,Male,3
+Kunal,Painter,Kalladipatta,679313,Palakkad,1000,33,Male,2.9
+Manu,Masonry,Kallamala,678582,Palakkad,500,55,Male,2.9
+Mayank,Driver,Kallekkad,678006,Palakkad,1000,54,Male,2.4
+Milind,Wood Cutter,Kallipadam,679122,Palakkad,1000,29,Male,1.7
+Navin,Plumber,Kallur-palakkad,678613,Palakkad,500,31,Male,2.1
+Aaradhya,Electrician,Kalluvazhi,679514,Palakkad,1000,29,Female,2.7
+Aishwarya,Grass Cutter,Kalpathi,678003,Palakkad,750,31,Female,3.4
+Akhila,Coconut Climber,Kanakkanthuruthy,678683,Palakkad,650,33,Female,2.5
+Ananya,Carpentry,Kanayam,679122,Palakkad,550,56,Female,1.5
+Anjali,Painter,Kandamangalam,678583,Palakkad,600,54,Female,3.8
+Anju,Masonry,Kanhikulam,678596,Palakkad,700,33,Female,4
+Anusha,Driver,Kanhirapuzha,678591,Palakkad,1000,55,Female,3.7
+Arya,Wood Cutter,Kanimangalam,678508,Palakkad,500,54,Female,1.9
+Aswathy,Plumber,Kanjikode,678621,Palakkad,1000,29,Female,2.3
+Devika,Electrician,Kannadi,678701,Palakkad,750,31,Female,2.1
+Divya,Grass Cutter,Kannambra,678686,Palakkad,650,29,Female,3.3
+Gayathri,Coconut Climber,Kannanur,678702,Palakkad,550,31,Female,1.3
+Greeshma,Carpentry,Kanniampuram,679104,Palakkad,650,33,Female,4.7
+Harini,Painter,Kannimari,678534,Palakkad,550,56,Female,4.1
+Ishika,Masonry,Kappur,679552,Palakkad,1000,40,Female,3.2
+Janani,Driver,Karakurissi,678595,Palakkad,500,36,Female,1.7
+Jaya,Wood Cutter,Karalmanna,679506,Palakkad,1000,38,Female,2.4
+Kavya,Plumber,Karambathur,679305,Palakkad,1000,29,Female,2.4
+Lakshmi,Electrician,Karara,678581,Palakkad,500,35,Female,2
+Malavika,Grass Cutter,Karattukurissi,679503,Palakkad,1000,55,Female,1.1
+Meenakshi,Driver,Karimba,678597,Palakkad,750,42,Female,3.6
+Nandana,Wood Cutter,Karimpuzha,679513,Palakkad,650,44,Female,4.8
+Nayana,Plumber,Karingarapully,678551,Palakkad,550,33,Female,2.9
+Nisha,Electrician,Karinkayam,678706,Palakkad,900,32,Female,4
+Priya,Grass Cutter,Kolikkottusseri,679303,Palakkad,600,40,Female,4
+Adarsh,Plumber,Choorakode,679336,Palakkad,600,29,Male,3
+Aditya,Electrician,Chulanur,678574,Palakkad,800,31,Male,3.2
+Akash,Stonemason,Chunangad,679511,Palakkad,900,29,Male,1.3
+Akhil,Solar Panel Installer,Chundampatta,679337,Palakkad,700,31,Male,4.1
+Ajay,Locksmith,Coyalmanna,678702,Palakkad,800,33,Male,1.2
+Ajith,Blacksmith,Dhoni,678009,Palakkad,1000,56,Male,2.6
+Akshay,Plumber,Edakode,679522,Palakkad,600,54,Male,3.3
+Alok,Mechanic,Edathanttukara,678601,Palakkad,800,33,Male,4.3
+Alvin,Ironworker,Edathara,678611,Palakkad,900,55,Male,2.5
+Amal,Concrete Finisher,Eduppukulam,678556,Palakkad,700,54,Male,4.5
+Aman,Fence Installer,Elakkad,678631,Palakkad,800,29,Male,4.1
+Amar,Roofing Worker,Elambulasseri,678595,Palakkad,1000,55,Male,1.6
+Amartya,Cabinetmaker,Elapulli,678622,Palakkad,600,28,Male,3.5
+Ambareesh,Upholsterer,Elapulli South,678622,Palakkad,800,47,Male,1.1
+Amit,Landscaper,Elavampadam,678684,Palakkad,900,55,Male,1.3
+Amrit,Septic Tank Servicer,Elavancheri,678508,Palakkad,700,29,Male,4.3
+Anand,Carpentry,Erattakulam,678682,Palakkad,800,31,Male,4.6
+Ananth,Welder,Eravakkad,679552,Palakkad,1000,33,Male,1.7
+Anil,Flooring Installer,Erimayur,678546,Palakkad,600,56,Male,3.1
+Anirudh,Painter,Eruttenpadi,678555,Palakkad,800,54,Male,2.2
+Anoop,Electrician,Etapalam,679308,Palakkad,900,33,Male,1.6
+Anuj,Stonemason,Ettanur,678502,Palakkad,700,45,Male,4.7
+Anup,Solar Panel Installer,Ezhuvanthala,679335,Palakkad,800,35,Male,2.4
+Anurag,Locksmith,Gandhi Seva Sadan,679302,Palakkad,1000,52,Male,1.5
+Aravind,Blacksmith,Ganeshgiri,679123,Palakkad,600,28,Male,2.1
+Arjun,Plumber,Govindapuram,678507,Palakkad,800,65,Male,3.2
+Arun,Mechanic,Irimbakachola,678591,Palakkad,900,45,Male,2.3
+Arvind,Ironworker,Irimbalasseri,679335,Palakkad,700,42,Male,4.5
+Ashok,Concrete Finisher,Jellipara,678581,Palakkad,800,52,Male,4
+Athul,Fence Installer,Kacheriparamba,678601,Palakkad,1000,36,Male,4
+Balaji,Roofing Worker,Kadambur,679515,Palakkad,600,37,Male,4.3
+Balu,Cabinetmaker,Kadukkamkunnu,678651,Palakkad,800,45,Male,2.4
+Binoy,Upholsterer,Kaipuram,679308,Palakkad,900,35,Male,3.4
+Chaitanya,Mechanic,Kairady,678510,Palakkad,700,52,Male,1.6
+Chandra,Landscaper,Kaithachira,678582,Palakkad,800,28,Male,1.3
+Dhananjay,Welder,Kakkayur,678512,Palakkad,1000,65,Male,2.7
+Deepak,Carpentry,Kalapatti,678702,Palakkad,600,45,Male,1.3
+Dev,Flooring Installer,Kalkandi,678582,Palakkad,800,42,Male,4.3
+Devan,Painter,Kalladathur,679552,Palakkad,900,52,Male,1.3
+Devendra,Electrician,Kalladikode,678596,Palakkad,700,36,Male,3.3
+Devraj,Stonemason,Kalladipatta,679313,Palakkad,800,37,Male,4.6
+Dhruv,Solar Panel Installer,Kallamala,678582,Palakkad,1000,37,Male,1.1
+Dileep,Locksmith,Kallekkad,678006,Palakkad,600,45,Male,4
+Dilip,Blacksmith,Kallipadam,679122,Palakkad,800,35,Male,2.1
+Dinesh,Plumber,Kallur-palakkad,678613,Palakkad,900,52,Male,3.3
+Dipesh,Mechanic,Kalluvazhi,679514,Palakkad,700,37,Male,4.4
+Gautham,Ironworker,Kalpathi,678003,Palakkad,800,40,Male,3.7
+George,Concrete Finisher,Kanakkanthuruthy,678683,Palakkad,1000,31,Male,4.5
+Gireesh,Fence Installer,Kanayam,679122,Palakkad,600,45,Male,3.8
+Gokul,Roofing Worker,Kandamangalam,678583,Palakkad,800,34,Male,2
+Gopal,Cabinetmaker,Kanhikulam,678596,Palakkad,900,42,Male,3.7
+Govind,Upholsterer,Kanhirapuzha,678591,Palakkad,700,28,Male,2.7
+Harish,Landscaper,Kanimangalam,678508,Palakkad,800,36,Male,1.4
+Hari,Septic Tank Servicer,Kanjikode,678621,Palakkad,1000,47,Male,4.9
+Harishankar,Carpentry,Kannadi,678701,Palakkad,600,50,Male,4.2
+Hitesh,Welder,Kannambra,678686,Palakkad,800,29,Male,2.4
+Jagadish,Flooring Installer,Kannanur,678702,Palakkad,900,31,Male,3.2
+Jagan,Painter,Kanniampuram,679104,Palakkad,700,29,Male,2.6
+Jagannath,Electrician,Kannimari,678534,Palakkad,800,31,Male,3.5
+Jai,Stonemason,Kappur,679552,Palakkad,1000,33,Male,3.4
+Jaison,Solar Panel Installer,Karakurissi,678595,Palakkad,600,56,Male,4.3
+Jaison,Locksmith,Karalmanna,679506,Palakkad,800,54,Male,4.5
+Jeevan,Blacksmith,Karambathur,679305,Palakkad,900,33,Male,1.3
+Jishnu,Plumber,Karara,678581,Palakkad,700,55,Male,2.9
+Jithin,Mechanic,Choorakode,679336,Palakkad,800,54,Male,2.5
+Joby,Ironworker,Chulanur,678574,Palakkad,1000,29,Male,1.8
+John,Concrete Finisher,Chunangad,679511,Palakkad,600,55,Male,1.5
+Joseph,Fence Installer,Chundampatta,679337,Palakkad,800,28,Male,2.2
+Joy,Mechanic,Coyalmanna,678702,Palakkad,900,47,Male,2.6
+Justin,Roofing Worker,Dhoni,678009,Palakkad,700,55,Male,4.1
+Karan,Cabinetmaker,Edakode,679522,Palakkad,800,29,Male,3.8
+Karthik,Upholsterer,Edathanttukara,678601,Palakkad,1000,31,Male,1
+Kishore,Carpentry,Edathara,678611,Palakkad,600,33,Male,3.2
+Krish,Plumber,Eduppukulam,678556,Palakkad,800,56,Male,2.9
+Krishna,Electrician,Elakkad,678631,Palakkad,900,54,Male,2
+Kunal,Grass Cutter,Elambulasseri,678595,Palakkad,700,33,Male,3.1
+Mahesh,Coconut Climber,Elapulli,678622,Palakkad,800,45,Male,3.7
+Manish,Carpentry,Elapulli South,678622,Palakkad,1000,35,Male,1.6
+Manoj,Painter,Elavampadam,678684,Palakkad,600,52,Male,4.5
+Midhun,Masonry,Elavancheri,678508,Palakkad,800,28,Male,1.8
+Mithun,Driver,Erattakulam,678682,Palakkad,900,65,Male,1.4
+Mohan,Wood Cutter,Eravakkad,679552,Palakkad,700,45,Male,3.9
+Mohandas,Electrician,Erimayur,678546,Palakkad,800,42,Male,1.4
+Mukesh,Home Nurse,Eruttenpadi,678555,Palakkad,1000,52,Male,1.4
+Nandu,Maid,Etapalam,679308,Palakkad,600,36,Male,4
+Naveen,Plumber,Ettanur,678502,Palakkad,800,37,Male,4.1
+Neeraj,Electrician,Ezhuvanthala,679335,Palakkad,900,45,Male,2.1
+Nidhin,Grass Cutter,Gandhi Seva Sadan,679302,Palakkad,700,35,Male,1.9
+Nihal,Coconut Climber,Ganeshgiri,679123,Palakkad,800,52,Male,2.9
+Nikhil,Carpentry,Govindapuram,678507,Palakkad,1000,28,Male,4.3
+Nishant,Painter,Irimbakachola,678591,Palakkad,600,65,Male,3.4
+Nitin,Masonry,Irimbalasseri,679335,Palakkad,800,45,Male,1.7
+Pradeep,Driver,Jellipara,678581,Palakkad,900,42,Male,2.5
+Prakash,Wood Cutter,Kacheriparamba,678601,Palakkad,700,52,Male,3.3
+Pramod,Electrician,Kadambur,679515,Palakkad,800,36,Male,4.3
+Pranav,Home Nurse,Kadukkamkunnu,678651,Palakkad,1000,37,Male,1
+Prasad,Maid,Kaipuram,679308,Palakkad,600,37,Male,1.3
+Prashant,Plumber,Kairady,678510,Palakkad,800,45,Male,3.5
+Praveen,Electrician,Kaithachira,678582,Palakkad,900,35,Male,4.7
+Prem,Grass Cutter,Kakkayur,678512,Palakkad,700,52,Male,4.3
+Raj,Coconut Climber,Kalapatti,678702,Palakkad,800,37,Male,3.8
+Rajan,Carpentry,Kalkandi,678582,Palakkad,1000,40,Male,1.2
+Rajeev,Painter,Kalladathur,679552,Palakkad,600,31,Male,3
+Rajesh,Masonry,Kalladikode,678596,Palakkad,800,45,Male,2.9
+Rajiv,Driver,Kalladipatta,679313,Palakkad,900,34,Male,3.4
+Rakshit,Electrician,Kallamala,678582,Palakkad,700,42,Male,1.4
+Raman,Stonemason,Kallekkad,678006,Palakkad,800,28,Male,4.4
+Ramdas,Solar Panel Installer,Kallipadam,679122,Palakkad,1000,36,Male,2.6
+Ramesh,Locksmith,Kallur-palakkad,678613,Palakkad,600,47,Male,4.6
+Ravi,Blacksmith,Kalluvazhi,679514,Palakkad,800,50,Male,3.2
+Ravindra,Plumber,Kalpathi,678003,Palakkad,900,29,Male,3.4
+Rohan,Mechanic,Kanakkanthuruthy,678683,Palakkad,700,31,Male,4.2
+Sachin,Ironworker,Kanayam,679122,Palakkad,800,29,Male,1.2
+Sahil,Concrete Finisher,Kandamangalam,678583,Palakkad,1000,31,Male,4.8
+Salil,Fence Installer,Kanhikulam,678596,Palakkad,600,33,Male,2.7
+Sanjay,Roofing Worker,Kanhirapuzha,678591,Palakkad,800,56,Male,1.3
+Santosh,Cabinetmaker,Kanimangalam,678508,Palakkad,900,54,Male,1.3
+Satish,Upholsterer,Kanjikode,678621,Palakkad,700,33,Male,1.2
+Senthil,Landscaper,Kannadi,678701,Palakkad,800,55,Male,2.8
+Shankar,Septic Tank Servicer,Kannambra,678686,Palakkad,1000,54,Male,2.4
+Shantanu,Carpentry,Kannanur,678702,Palakkad,600,29,Male,3.7
+Sharath,Welder,Kanniampuram,679104,Palakkad,800,55,Male,4.4
+Shashi,Flooring Installer,Kannimari,678534,Palakkad,900,28,Male,2.3
+Shyam,Painter,Kappur,679552,Palakkad,700,47,Male,1.2
+Siva,Electrician,Karakurissi,678595,Palakkad,800,55,Male,1.9
+Sreenath,Stonemason,Karalmanna,679506,Palakkad,1000,29,Male,2.5
+Srinath,Solar Panel Installer,Karambathur,679305,Palakkad,600,31,Male,3
+Srinivas,Locksmith,Karara,678581,Palakkad,800,33,Male,3.6
+Sudhir,Blacksmith,Kadambur,679515,Palakkad,900,56,Male,2.5
+Sunil,Plumber,Kadukkamkunnu,678651,Palakkad,700,54,Male,4.8
+Suresh,Mechanic,Kaipuram,679308,Palakkad,800,33,Male,3.9
+Suraj,Ironworker,Kairady,678510,Palakkad,1000,45,Male,3.4
+Syam,Concrete Finisher,Thottara,679513,Palakkad,600,35,Male,4.5
+Tarun,Fence Installer,Attasseri,679513,Palakkad,800,52,Male,1.4
+Thomas,Roofing Worker,Mannarkkad,678582,Palakkad,900,28,Male,2.8
+Uday,Cabinetmaker,Adakkaputhur B.O,679503,Palakkad,700,65,Male,3
+Unnikrishnan,Upholsterer,Agali S.O,678581,Palakkad,800,45,Male,3.5
+Varun,Mechanic,Akalur B.O,679302,Palakkad,1000,42,Male,1.7
+Venkat,Landscaper,Attempathy B.O,678556,Palakkad,600,52,Male,2.3
+Venkatesh,Welder,Athipotta,678544,Palakkad,800,36,Male,3
+Venu,Carpentry,Athicode,678554,Palakkad,900,37,Male,4.5
+Vibin,Flooring Installer,Ariyur,678583,Palakkad,700,45,Male,1.9
+Vijay,Painter,Akathethara,678008,Palakkad,800,35,Male,3.5
+Vikas,Electrician,Alampallam,678506,Palakkad,1000,52,Male,3.3
+Vikram,Stonemason,Alanallur,678601,Palakkad,600,28,Male,1.4
+Vinay,Solar Panel Installer,Alangad,678633,Palakkad,800,65,Male,3.7
+Vineeth,Locksmith,Alathur Mbr,678541,Palakkad,900,45,Male,3
+Vishal,Blacksmith,Amayur,679303,Palakkad,700,42,Male,2.1
+Vishnu,Plumber,Ambalapara,679512,Palakkad,800,52,Male,3.7
+Vivek,Mechanic,Anjumoorthy,678682,Palakkad,1000,36,Male,3
+Vyas,Ironworker,Ayakkad,678683,Palakkad,600,37,Male,4.6
+Yadu,Concrete Finisher,Ayalur,678510,Palakkad,800,37,Male,4.1
+Yash,Fence Installer,Azhiyannur,678633,Palakkad,900,45,Male,4.7
+Yashwant,Roofing Worker,Bhimanad,678601,Palakkad,700,35,Male,2.1
+Adarsh,Cabinetmaker,Chalavara,679505,Palakkad,800,52,Male,1.3
+Ajay,Upholsterer,Chalisseri,679536,Palakkad,1000,37,Male,2.4
+Akhil,Landscaper,Chaliyattiri,679535,Palakkad,600,40,Male,1.1
+Akshay,Septic Tank Servicer,Chandramala Estate,678508,Palakkad,800,31,Male,3.1
+Akash,Carpentry,Chandranagar,678007,Palakkad,900,45,Male,1.3
+Alok,Welder,Chandrapuram,678624,Palakkad,700,34,Male,2.5
+Amit,Flooring Installer,Chandrasekharapuram,678611,Palakkad,800,42,Male,2.6
+Amal,Painter,Changileri,678762,Palakkad,1000,28,Male,1.7
+Amrit,Electrician,Chathamangalam,678508,Palakkad,600,36,Male,2.5
+Anand,Stonemason,Chathanur,679535,Palakkad,800,47,Male,1.3
+Ananth,Solar Panel Installer,Chavadiyur,678581,Palakkad,900,50,Male,2.8
+Anil,Locksmith,Chembra,679304,Palakkad,700,29,Male,2.2
+Anirudh,Blacksmith,Chennangad,678573,Palakkad,800,31,Male,5
+Anoop,Plumber,Chenthamaranagar,678102,Palakkad,1000,29,Male,4.7
+Anuj,Mechanic,Cheramangalam,678703,Palakkad,600,31,Male,2
+Aravind,Ironworker,Cherambattakavu,679501,Palakkad,800,33,Male,2.4
+Arjun,Concrete Finisher,Cheraya,678631,Palakkad,900,56,Male,4.7
+Arun,Fence Installer,Cherottur,679521,Palakkad,700,54,Male,4.6
+Ashok,Mechanic,Cherpalcheri,679503,Palakkad,800,33,Male,2.3
+Balaji,Roofing Worker,Cherukattupulam,679522,Palakkad,1000,55,Male,1.6
+Binoy,Cabinetmaker,Cherukode,679336,Palakkad,600,54,Male,3.2
+Chaitanya,Upholsterer,Cherukulam,678572,Palakkad,800,29,Male,2.2
+Dhananjay,Carpentry,Cherukutangad,679305,Palakkad,900,55,Male,4.1
+Deepak,Plumber,Cherumundasseri,679512,Palakkad,700,28,Male,2.9
+Dev,Electrician,Chethallur,678583,Palakkad,800,47,Male,4.1
+Devan,Grass Cutter,Chimbukat,678721,Palakkad,1000,55,Male,2.8
+Dhruv,Coconut Climber,Chindaki,678582,Palakkad,600,29,Male,2.9
+Dileep,Carpentry,Chithali,678702,Palakkad,800,31,Male,1.1
+Dilip,Painter,Chittadi,678706,Palakkad,900,33,Male,3.8
+Dinesh,Masonry,Chittilancheri,678704,Palakkad,700,56,Male,1.9
+Gautham,Driver,Chittur,678581,Palakkad,800,54,Male,2.7
+George,Wood Cutter,Chokkanathapuram,678005,Palakkad,1000,33,Male,2.2
+Gireesh,Electrician,Choorakode,679336,Palakkad,600,45,Male,4.9
+Gokul,Home Nurse,Chulanur,678574,Palakkad,800,35,Male,4.5
+Gopal,Maid,Chunangad,679511,Palakkad,900,52,Male,3.6
+Govind,Plumber,Chundampatta,679337,Palakkad,700,28,Male,4.1
+Harish,Electrician,Coyalmanna,678702,Palakkad,800,65,Male,3.2
+Hari,Grass Cutter,Dhoni,678009,Palakkad,1000,45,Male,2.4
+Harishankar,Coconut Climber,Edakode,679522,Palakkad,600,42,Male,1.8
+Hitesh,Carpentry,Edathanttukara,678601,Palakkad,800,52,Male,3.3
+Jagadish,Painter,Edathara,678611,Palakkad,900,36,Male,4.8
+Jagan,Masonry,Eduppukulam,678556,Palakkad,700,37,Male,4.3
+Jagannath,Driver,Elakkad,678631,Palakkad,800,45,Male,4.3
+Jai,Wood Cutter,Elambulasseri,678595,Palakkad,1000,35,Male,2.4
+Jaison,Electrician,Elapulli,678622,Palakkad,600,52,Male,1.4
+Jeevan,Home Nurse,Elapulli South,678622,Palakkad,800,28,Male,3
+Jishnu,Maid,Elavampadam,678684,Palakkad,900,65,Male,1.8
+Jithin,Plumber,Elavancheri,678508,Palakkad,700,45,Male,2.8
+Joby,Electrician,Erattakulam,678682,Palakkad,800,42,Male,4.4
+John,Grass Cutter,Eravakkad,679552,Palakkad,1000,52,Male,3.7
+Joseph,Coconut Climber,Erimayur,678546,Palakkad,600,36,Male,1.7
+Joy,Carpentry,Eruttenpadi,678555,Palakkad,800,37,Male,2.5
+Justin,Painter,Etapalam,679308,Palakkad,900,37,Male,1.9
+Karan,Masonry,Ettanur,678502,Palakkad,700,45,Male,4.8
+Karthik,Driver,Ezhuvanthala,679335,Palakkad,800,35,Male,3.8
+Kishore,Electrician,Gandhi Seva Sadan,679302,Palakkad,1000,52,Male,3.8
+Krish,Stonemason,Ganeshgiri,679123,Palakkad,600,37,Male,2.4
+Krishna,Solar Panel Installer,Govindapuram,678507,Palakkad,800,40,Male,3.1
+Kunal,Locksmith,Irimbakachola,678591,Palakkad,900,31,Male,2.4
+Mahesh,Blacksmith,Irimbalasseri,679335,Palakkad,700,45,Male,2.6
+Manish,Plumber,Jellipara,678581,Palakkad,800,34,Male,4.8
+Manoj,Mechanic,Kacheriparamba,678601,Palakkad,1000,42,Male,3.3
+Midhun,Ironworker,Kadambur,679515,Palakkad,600,28,Male,2.3
+Mithun,Concrete Finisher,Kadukkamkunnu,678651,Palakkad,800,36,Male,1.4
+Mohan,Fence Installer,Kaipuram,679308,Palakkad,900,47,Male,2.3
+Mohandas,Roofing Worker,Kairady,678510,Palakkad,700,50,Male,2.8
+Mukesh,Cabinetmaker,Kaithachira,678582,Palakkad,800,29,Male,4.3
+Nandu,Upholsterer,Kakkayur,678512,Palakkad,1000,31,Male,3.2
+Naveen,Landscaper,Kalapatti,678702,Palakkad,600,29,Male,1.3
+Neeraj,Septic Tank Servicer,Kalkandi,678582,Palakkad,800,31,Male,2.4
+Nidhin,Carpentry,Kalladathur,679552,Palakkad,900,33,Male,1.7
+Nihal,Welder,Kalladikode,678596,Palakkad,700,56,Male,1.4
+Nikhil,Flooring Installer,Kalladipatta,679313,Palakkad,800,54,Male,1.4
+Nishant,Painter,Kallamala,678582,Palakkad,1000,33,Male,4.6
+Nitin,Electrician,Kallekkad,678006,Palakkad,600,55,Male,4.5
+Pradeep,Stonemason,"Edakochi, Kochi",682010,Ernakulam,800,54,Male,2.7
+Prakash,Solar Panel Installer,"Edakochi, Kochi",682010,Ernakulam,900,29,Male,2
+Pramod,Locksmith,"Edakochi, Kochi",682010,Ernakulam,700,55,Male,1.4
+Pranav,Blacksmith,"Edakochi, Kochi",682010,Ernakulam,800,28,Male,2.6
+Prasad,Plumber,"Edakochi, Kochi",682010,Ernakulam,1000,47,Male,4.3
+Prashant,Mechanic,"Edakochi, Kochi",682010,Ernakulam,600,55,Male,2.9
+Praveen,Ironworker,"Edakochi, Kochi",682010,Ernakulam,800,29,Male,4.1
+Prem,Concrete Finisher,"Edakochi, Kochi",682010,Ernakulam,900,31,Male,2.6
+Raj,Fence Installer,"Palluruthy, Kochi",682005,Ernakulam,700,33,Male,2.3
+Rajan,Roofing Worker,"Palluruthy, Kochi",682005,Ernakulam,800,56,Male,1.7
+Rajeev,Cabinetmaker,"Palluruthy, Kochi",682005,Ernakulam,1000,54,Male,1.7
+Rajesh,Upholsterer,"Palluruthy, Kochi",682005,Ernakulam,600,33,Male,4.5
+Rajiv,Mechanic,"Palluruthy, Kochi",682005,Ernakulam,800,45,Male,2.1
+Rakshit,Landscaper,"Palluruthy, Kochi",682005,Ernakulam,900,35,Male,3.9
+Raman,Welder,"Palluruthy, Kochi",682005,Ernakulam,700,52,Male,2.7
+Ramdas,Carpentry,"Palluruthy, Kochi",682005,Ernakulam,800,28,Male,4.3
+Ramesh,Flooring Installer,"Palluruthy, Kochi",682005,Ernakulam,1000,65,Male,4.1
+Ravi,Painter,"Palluruthy, Kochi",682005,Ernakulam,600,45,Male,5
+Ravindra,Electrician,"Palluruthy, Kochi",682005,Ernakulam,800,42,Male,3.2
+Rohan,Stonemason,"N.A.D,Aluva",683563,Ernakulam,900,52,Male,2.3
+Sachin,Solar Panel Installer,"N.A.D,Aluva",683563,Ernakulam,700,36,Male,4.8
+Sahil,Locksmith,"N.A.D,Aluva",683563,Ernakulam,800,37,Male,3.9
+Salil,Blacksmith,"N.A.D,Aluva",683563,Ernakulam,1000,45,Male,3.9
+Sanjay,Plumber,"N.A.D,Aluva",683563,Ernakulam,600,35,Male,5
+Santosh,Mechanic,"N.A.D,Aluva",683563,Ernakulam,800,52,Male,2.4
+Satish,Ironworker,"N.A.D,Aluva",683563,Ernakulam,900,28,Male,3.5
+Senthil,Concrete Finisher,"N.A.D,Aluva",683563,Ernakulam,700,65,Male,3.7
+Shankar,Fence Installer,"N.A.D,Aluva",683563,Ernakulam,800,45,Male,4
+Shantanu,Roofing Worker,"N.A.D,Aluva",683563,Ernakulam,1000,42,Male,1.2
+Sharath,Cabinetmaker,"N.A.D,Aluva",683563,Ernakulam,600,52,Male,4.2
+Shashi,Upholsterer,Angamally,683572,Ernakulam,800,36,Male,2.4
+Shyam,Landscaper,Angamally,683572,Ernakulam,900,37,Male,1.7
+Siva,Septic Tank Servicer,Angamally,683572,Ernakulam,700,37,Male,3.2
+Sreenath,Carpentry,Angamally,683572,Ernakulam,800,45,Male,3
+Srinath,Welder,Angamally,683572,Ernakulam,1000,35,Male,4.3
+Srinivas,Flooring Installer,Angamally,683572,Ernakulam,600,52,Male,1.8
+Sudhir,Painter,Angamally,683572,Ernakulam,800,37,Male,3.2
+Sunil,Electrician,Angamally,683572,Ernakulam,900,40,Male,4.9
+Suresh,Stonemason,Angamally,683572,Ernakulam,700,31,Male,4.3
+Suraj,Solar Panel Installer,Angamally,683572,Ernakulam,800,45,Male,1.6
+Syam,Locksmith,Nadathara,680751,Trissur,1000,34,Male,3.9
+Tarun,Blacksmith,Nadathara,680751,Trissur,600,42,Male,2.7
+Thomas,Plumber,Nadathara,680751,Trissur,800,28,Male,4.2
+Uday,Mechanic,Nadathara,680751,Trissur,900,36,Male,1.3
+Unnikrishnan,Ironworker,Nadathara,680751,Trissur,700,47,Male,3.8
+Varun,Concrete Finisher,Nadathara,680751,Trissur,800,50,Male,4.1
+Venkat,Fence Installer,Nadathara,680751,Trissur,1000,29,Male,2.2
+Venkatesh,Mechanic,Nadathara,680751,Trissur,600,31,Male,4.6
+Venu,Roofing Worker,Nadathara,680751,Trissur,800,29,Male,4.8
+Vibin,Cabinetmaker,Nadathara,680751,Trissur,900,31,Male,4.8
+Vijay,Upholsterer,Nadathara,680751,Trissur,700,33,Male,3.6
+Vikas,Carpentry,Mattam,680602,Trissur,800,56,Male,1.3
+Vikram,Plumber,Mattam,680602,Trissur,1000,54,Male,2.8
+Vinay,Electrician,Mattam,680602,Trissur,600,33,Male,4.2
+Vineeth,Grass Cutter,Mattam,680602,Trissur,800,55,Male,3
+Vishal,Coconut Climber,Mattam,680602,Trissur,900,54,Male,1.7
+Vishnu,Carpentry,Mattam,680602,Trissur,700,29,Male,3
+Vivek,Painter,Mattam,680602,Trissur,800,55,Male,3.1
+Vyas,Masonry,Mattam,680602,Trissur,1000,28,Male,4.8
+Yadu,Driver,Mattam,680602,Trissur,600,47,Male,3.5
+Yash,Wood Cutter,Mattam,680602,Trissur,800,55,Male,2.4
+Yashwant,Electrician,Kuttikkad,680724,Trissur,900,29,Male,2.8
+Abhinav,Home Nurse,Kuttikkad,680724,Trissur,700,31,Male,1.6
+Abhishek,Maid,Kuttikkad,680724,Trissur,800,33,Male,2.6
+Adarsh,Plumber,Kuttikkad,680724,Trissur,1000,56,Male,3
+Akbar,Electrician,Kuttikkad,680724,Trissur,600,54,Male,4.4
+Akhil,Grass Cutter,Kuttikkad,680724,Trissur,800,33,Male,3.4
+Akshay,Coconut Climber,Kuttikkad,680724,Trissur,900,45,Male,2.5
+Ananthu,Carpentry,Kuttikkad,680724,Trissur,700,35,Male,1.4
+Anirudh,Painter,Kuttikkad,680724,Trissur,800,52,Male,4.7
+Anoop,Masonry,Kuttikkad,680724,Trissur,1000,28,Male,4.9
+Antony,Driver,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,600,65,Male,4.1
+Anuj,Wood Cutter,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,800,45,Male,3.3
+Aravind,Electrician,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,900,42,Male,3.2
+Arun,Home Nurse,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,700,52,Male,5
+Arvind,Maid,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,800,36,Male,5
+Ashwin,Plumber,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,1000,37,Male,1.3
+Balakrishna,Electrician,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,600,45,Male,2.1
+Balu,Grass Cutter,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,800,35,Male,1.5
+Bharath,Coconut Climber,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,900,52,Male,1.2
+Bhaskar,Carpentry,"Attigal,chirayinkeezhu",695101,Thiruvananthapuram,700,28,Male,4.2
+Chandan,Painter,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,800,65,Male,3.9
+Charan,Masonry,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,1000,45,Male,2.2
+Deepu,Driver,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,600,42,Male,1.7
+Ebin,Electrician,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,800,52,Male,2.9
+Eldho,Stonemason,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,900,36,Male,1.5
+Fazil,Solar Panel Installer,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,700,37,Male,3.4
+Ganesh,Locksmith,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,800,37,Male,2.7
+Gautham,Blacksmith,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,1000,45,Male,2.7
+Hariharan,Plumber,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,600,35,Male,1.8
+Jayaprakash,Mechanic,"Sasthamangalam,Thiruvananthapuram",695010,Thiruvananthapuram,800,52,Male,1.8
+Jayasurya,Ironworker,"Bavali,Mananthavady",670646,Wayanad,900,37,Male,4.7
+Jayesh,Concrete Finisher,"Bavali,Mananthavady",670646,Wayanad,700,40,Male,1.5
+Karthikeyan,Fence Installer,"Bavali,Mananthavady",670646,Wayanad,800,31,Male,1.7
+Kishan,Roofing Worker,"Bavali,Mananthavady",670646,Wayanad,1000,45,Male,2.6
+Kiran,Cabinetmaker,"Bavali,Mananthavady",670646,Wayanad,600,34,Male,1.7
+Kishore,Upholsterer,"Bavali,Mananthavady",670646,Wayanad,800,42,Male,3.8
+Kuber,Landscaper,"Bavali,Mananthavady",670646,Wayanad,900,28,Male,4
+Kurian,Septic Tank Servicer,"Bavali,Mananthavady",670646,Wayanad,700,36,Male,1.1
+Lakshman,Carpentry,"Bavali,Mananthavady",670646,Wayanad,800,47,Male,3
+Mahesh,Welder,"Bavali,Mananthavady",670646,Wayanad,1000,50,Male,2.8
+Manu,Flooring Installer,"Anthinad,Meenachil",686651,Kottayam,600,29,Male,3.1
+Mohandas,Painter,"Anthinad,Meenachil",686651,Kottayam,800,31,Male,1.6
+Mukundan,Electrician,"Anthinad,Meenachil",686651,Kottayam,900,29,Male,3.3
+Nandakumar,Stonemason,"Anthinad,Meenachil",686651,Kottayam,700,31,Male,3.3
+Narayan,Solar Panel Installer,"Anthinad,Meenachil",686651,Kottayam,800,33,Male,4.2
+Narayanan,Locksmith,"Anthinad,Meenachil",686651,Kottayam,1000,56,Male,3.4
+Nikith,Blacksmith,"Anthinad,Meenachil",686651,Kottayam,600,54,Male,4.2
+Nitish,Plumber,"Anthinad,Meenachil",686651,Kottayam,800,33,Male,2.5
+Nivin,Mechanic,"Anthinad,Meenachil",686651,Kottayam,900,55,Male,4.4
+Pranav,Ironworker,"Anthinad,Meenachil",686651,Kottayam,700,54,Male,4.8
+Prathap,Concrete Finisher,"Anthinad,Meenachil",686651,Kottayam,800,29,Male,2.5
+Premkumar,Fence Installer,"Asramam,Kollam",691002,Kollam,1000,55,Male,2.9
+Rajat,Roofing Worker,"Asramam,Kollam",691002,Kollam,600,28,Male,4.3
+Rakesh,Cabinetmaker,"Asramam,Kollam",691002,Kollam,800,47,Male,1.7
+Ram,Upholsterer,"Asramam,Kollam",691002,Kollam,900,55,Male,2.8
+Ramakrishna,Mechanic,"Asramam,Kollam",691002,Kollam,700,29,Male,4.8
+Ramesh,Landscaper,"Asramam,Kollam",691002,Kollam,800,31,Male,2
+Ramu,Welder,"Asramam,Kollam",691002,Kollam,1000,33,Male,3
+Ravi,Carpentry,"Asramam,Kollam",691002,Kollam,600,56,Male,3.1
+Rishabh,Flooring Installer,Kaloor,682017,Ernakulam,800,54,Male,3.6
+Rohit,Painter,Kaloor,682017,Ernakulam,900,33,Male,1.7
+Sachin,Electrician,Cherthala,688524,Alapuzha,700,45,Male,4.9
+Sahadev,Stonemason,Cherthala,688524,Alapuzha,800,35,Male,1.9
+Sajan,Solar Panel Installer,Cherthala,688524,Alapuzha,1000,52,Male,2.7
+Saket,Locksmith,Cherthala,688524,Alapuzha,600,28,Male,1.3
+Sankar,Blacksmith,Kavalappara,679523,Palakkad,800,65,Male,3.3
+Santhosh,Plumber,Kavalpad,678012,Palakkad,900,45,Male,2
+Sarath,Mechanic,Kavasseri,678543,Palakkad,700,42,Male,3
+Satish,Ironworker,Kavundikkal,678581,Palakkad,800,52,Male,1.3
+Selvam,Concrete Finisher,Kayiliad,679122,Palakkad,1000,36,Male,1.4
+Shashank,Fence Installer,Kazhani,678543,Palakkad,600,37,Male,2.7
+Shiva,Roofing Worker,Keralasseri,678641,Palakkad,800,45,Male,2.9
+Shivam,Cabinetmaker,Kilakkancheri,678684,Palakkad,900,35,Male,3.6
+Shyam,Upholsterer,Kilakkumbram,678642,Palakkad,700,52,Male,4.8
+Siddharth,Landscaper,Kilmuri,679307,Palakkad,800,28,Male,2.9
+Sooraj,Septic Tank Servicer,Kinasseri,678701,Palakkad,1000,65,Male,2.3
+Subin,Carpentry,Kinavallur,678612,Palakkad,600,45,Male,3.3
+Sujay,Welder,Kizhakkumuri,678508,Palakkad,800,42,Male,4.5
+Sujith,Flooring Installer,Kizhayur,679303,Palakkad,900,52,Male,1.7
+Suman,Painter,Kizhur,679501,Palakkad,700,36,Male,4.1
+Sunil,Electrician,Kodakkad,678583,Palakkad,800,37,Male,4.2
+Surya,Stonemason,Kodumunda,679303,Palakkad,1000,37,Male,2.5
+Syam,Solar Panel Installer,Koduntharapully,678004,Palakkad,600,45,Male,1.2
+Tejas,Locksmith,Koduvayur,678501,Palakkad,800,35,Male,3.9
+Tharun,Blacksmith,Kolikkottusseri,679303,Palakkad,900,52,Male,1.8
+Thirumal,Plumber,Kollengode,678506,Palakkad,700,37,Male,1.4
+Thirumala,Mechanic,Kondurkara,679313,Palakkad,800,40,Male,2.8
+Thomas,Ironworker,Kongad,678631,Palakkad,1000,31,Male,4.2
+Ujjwal,Concrete Finisher,Konikazhi,678632,Palakkad,600,45,Male,3.4
+Umesh,Fence Installer,Adayamon,695614,Trivandrum ,800,34,Male,5
+Venu,Mechanic,Alamcode,695102,Trivandrum ,900,42,Male,4.4
+Vignesh,Roofing Worker,Aliyadu,695607,Trivandrum ,700,28,Male,4.1
+Vijayakumar,Cabinetmaker,Altharamoodu,695102,Trivandrum ,800,36,Male,2.4
+Vinod,Upholsterer,Amachal,695572,Trivandrum ,1000,47,Male,2.9
+Vipin,Carpentry,Amaravila,695122,Trivandrum ,600,50,Male,3.6
+Vishal,Plumber,Ambalamukku,695005,Trivandrum ,800,29,Male,2.6
+Vivek,Electrician,Ambalathara,695026,Trivandrum ,900,31,Male,1.9
+Vraj,Grass Cutter,Ambalathinkala,695572,Trivandrum ,700,29,Male,1
+Vrishabh,Coconut Climber,Amboori,695505,Trivandrum ,800,31,Male,2.7
+Zahir,Carpentry,Anad,695544,Trivandrum ,1000,33,Male,1.7
+Aadi,Painter,Anakudy,695606,Trivandrum ,600,56,Male,2
+Aarav,Masonry,Anappara,695551,Trivandrum ,800,54,Male,1.6
+Aarush,Driver,Anathalavattom,695306,Trivandrum ,900,33,Male,3.8
+Abhay,Wood Cutter,Anavoor,695124,Trivandrum ,700,55,Male,3.6
+Abhijeet,Electrician,Anayara,695029,Trivandrum ,800,54,Male,4.8
+Aditya,Home Nurse,Andoorkonam,695584,Trivandrum ,1000,29,Male,3.6
+Akash,Maid,Anjengo,695309,Trivandrum ,600,55,Male,1.9
+Akshay,Plumber,Aralumoodu,695123,Trivandrum ,800,28,Male,4.4
+Amritanshu,Electrician,Aramada,695032,Trivandrum ,900,47,Male,1.2
+Aniket,Grass Cutter,Arayur,695122,Trivandrum ,700,55,Male,4
+Ansh,Coconut Climber,Arumanoor,695525,Trivandrum ,800,29,Male,2.4
+Anshul,Carpentry,Aruvikara,695564,Trivandrum ,1000,31,Male,3.7
+Arhaan,Painter,Aruvipuram,695126,Trivandrum ,600,33,Male,4.2
+Arjun,Masonry,Aryanad,695542,Trivandrum ,800,56,Male,1.6
+Aryan,Driver,Attakulangara,695023,Trivandrum ,900,54,Male,3.5
+Ashutosh,Wood Cutter,Attingal,695101,Trivandrum ,700,33,Male,3.6
+Ayush,Electrician,Attukal,695009,Trivandrum ,800,45,Male,3.6
+Chirag,Home Nurse,Avanavancherry,695103,Trivandrum ,1000,35,Male,3.9
+Darshan,Maid,Ayilam,695103,Trivandrum ,600,52,Male,4.5
+Deepanshu,Plumber,Ayira,695502,Trivandrum ,800,28,Male,4.7
+Devansh,Electrician,Ayroor-varkala,695310,Trivandrum ,900,65,Male,2.6
+Devendra,Grass Cutter,Azhurmarket,695305,Trivandrum ,700,45,Male,3
+Devraj,Coconut Climber,Balaramapuram,695501,Trivandrum ,800,42,Male,3.2
+Divyansh,Carpentry,Beemapally,695008,Trivandrum ,1000,52,Male,3
+Harsh,Painter,Bhagavathinada,695501,Trivandrum ,600,36,Male,4.1
+Hrithik,Masonry,Bharathannur,695616,Trivandrum ,800,37,Male,2.2
+Ishan,Driver,Bonaccord,695557,Trivandrum ,900,45,Male,2.1
+Kshitij,Electrician,Cgo Complex poonkulam,695522,Trivandrum ,700,35,Male,1.6
+Lakshay,Stonemason,Chaikkottukonam,695122,Trivandrum ,800,52,Male,1.3
+Manit,Solar Panel Installer,Chakkai,695024,Trivandrum ,1000,28,Male,3.3
+Mihir,Locksmith,Changa,695542,Trivandrum ,600,65,Male,4.9
+Naman,Blacksmith,Channamkara,695315,Trivandrum ,800,45,Male,1.7
+Parth,Plumber,Charupara,695601,Trivandrum ,900,42,Male,3.1
+Pranay,Mechanic,Cheeranikkara,695615,Trivandrum ,700,52,Male,2.1
+Pulkit,Ironworker,Chekkakonam,695564,Trivandrum ,800,36,Male,4.7
+Rachit,Concrete Finisher,Chempazhanthy,695587,Trivandrum ,1000,37,Male,2.1
+Rajat,Fence Installer,Chenkal,695132,Trivandrum ,600,37,Male,3.8
+Rajveer,Roofing Worker,Cheriakolla,695504,Trivandrum ,800,45,Male,2.5
+Ritik,Cabinetmaker,Cheriyakonni,695013,Trivandrum ,900,35,Male,3.1
+Rudra,Upholsterer,Cherunniyur,695142,Trivandrum ,700,52,Male,1.8
+Sahil,Landscaper,Cheruvarakonam,695502,Trivandrum ,800,37,Male,3.6
+Saurabh,Septic Tank Servicer,Cheruvikkal,695011,Trivandrum ,1000,40,Male,3.9
+Shaurya,Carpentry,Chettachal,695551,Trivandrum ,600,31,Male,3
+Shubham,Welder,Chilakur,695141,Trivandrum ,800,45,Male,3.9
+Yashwardhan,Flooring Installer,Chirayinkeezhu,695304,Trivandrum ,900,34,Male,4
+Aarathi,Painter,Chittattumukku,695588,Trivandrum ,700,42,Female,2
+Aishwarya,Electrician,Chowara,695501,Trivandrum ,800,28,Female,1.6
+Akhila,Stonemason,Chullimanoor,695541,Trivandrum ,1000,36,Female,3.6
+Aleena,Solar Panel Installer,Cotton Hill,695014,Trivandrum ,600,47,Female,3.3
+Amala,Locksmith,Daivapura,695563,Trivandrum ,800,50,Female,4.2
+Amritha,Blacksmith,Dalmughom,695125,Trivandrum ,900,29,Female,1.7
+Ananya,Plumber,Dhanuvachapuram,695503,Trivandrum ,700,31,Female,2.6
+Anjali,Mechanic,Edakode,695104,Trivandrum ,800,29,Female,2.2
+Anju,Ironworker,Edava,695311,Trivandrum ,1000,31,Female,3.9
+Anjana,Concrete Finisher,Elakamon,695310,Trivandrum ,600,33,Female,4.4
+Anusha,Fence Installer,Elakamon-kizhakkepuram,695310,Trivandrum ,800,56,Female,3.8
+Anu,Roofing Worker,Elavattom,695562,Trivandrum ,900,54,Female,2.5
+Arya,Cabinetmaker,Elluvila,695504,Trivandrum ,700,33,Female,4.3
+Asha,Upholsterer,Ex-servicemen's Colony,695562,Trivandrum ,800,55,Female,3.6
+Aswathy,Mechanic,Goureesapattom,695004,Trivandrum ,1000,54,Female,1.5
+Athira,Landscaper,Hariharapuram,695310,Trivandrum ,600,29,Female,4
+Aysha,Welder,Idinjar,695563,Trivandrum ,800,55,Female,4.2
+Bhavana,Carpentry,Ilamba,695103,Trivandrum ,900,28,Female,2.4
+Chandni,Flooring Installer,Ilanchiyam,695563,Trivandrum ,700,47,Female,2.1
+Devika,Painter,Industrial Estate,695019,Trivandrum ,800,55,Female,1.5
+Devi,Electrician,Irinchayam,695561,Trivandrum ,1000,29,Female,1.2
+Divya,Stonemason,Iroorpara,695584,Trivandrum ,600,31,Female,2.5
+Gayathri,Solar Panel Installer,Jagathy,695014,Trivandrum ,800,33,Female,1.8
+Gopika,Locksmith,Janardhanapuram,695141,Trivandrum ,900,56,Female,3.2
+Greeshma,Blacksmith,Kachani,695013,Trivandrum ,700,54,Female,4.2
+Harini,Plumber,Kadakkavur,695306,Trivandrum ,800,33,Female,4.7
+Indira,Mechanic,Kaikara,695307,Trivandrum ,1000,45,Female,2.6
+Ishita,Ironworker,Kaimanam,695040,Trivandrum ,600,35,Female,2.7
+Janaki,Concrete Finisher,Kaithamukku,695024,Trivandrum ,800,52,Female,4.1
+Janani,Fence Installer,Kakkavila,695506,Trivandrum ,900,28,Female,3.1
+Janhvi,Roofing Worker,Kalamachal,695606,Trivandrum ,700,65,Female,4.5
+Jaya,Cabinetmaker,Kallambalam,695605,Trivandrum ,800,45,Female,2.6
+Jyothi,Upholsterer,Kallar Tvm,695551,Trivandrum ,1000,42,Female,1.5
+Kala,Landscaper,Kallara,695608,Trivandrum ,600,52,Female,2.5
+Kalyani,Septic Tank Servicer,Kallayam,695043,Trivandrum ,800,36,Female,1.4
+Kavita,Carpentry,Kalliyal,695574,Trivandrum ,900,37,Female,4.4
+Kavya,Welder,Kalliyoor,695042,Trivandrum ,700,45,Female,3.3
+Lakshmi,Flooring Installer,Kanchinada,695609,Trivandrum ,800,35,Female,1.9
+Lekha,Painter,Kandala,695512,Trivandrum ,1000,52,Female,1
+Madhavi,Electrician,Kaniyapuram,695301,Trivandrum ,600,28,Female,2.5
+Madhumita,Stonemason,Kanjampazhanji,695525,Trivandrum ,800,65,Female,4.6
+Mahima,Solar Panel Installer,Kanjiramkulam,695524,Trivandrum ,900,45,Female,1.2
+Malavika,Locksmith,Kanjirampara,695030,Trivandrum ,700,42,Female,1.8
+Manju,Blacksmith,Kappil,695311,Trivandrum ,800,52,Female,1.2
+Maya,Plumber,Karakonam,695504,Trivandrum ,1000,36,Female,2.7
+Meenakshi,Mechanic,Karakulam,695564,Trivandrum ,600,37,Female,3.5
+Megha,Ironworker,Karamana,695002,Trivandrum ,800,37,Female,3.3
+Mehta,Concrete Finisher,Karavaram,695605,Trivandrum ,900,45,Female,4
+Nandana,Fence Installer,Karikuzhi,695505,Trivandrum ,700,35,Female,1.7
+Nandini,Mechanic,Karimanal,695583,Trivandrum ,800,52,Female,1.6
+Nayana,Roofing Worker,Karimancode,695562,Trivandrum ,1000,37,Female,3.2
+Neelima,Cabinetmaker,Karimkuttikara,695606,Trivandrum ,600,40,Female,3.1
+Neha,Upholsterer,Karipur,695541,Trivandrum ,800,31,Female,4
+Nidhi,Carpentry,Karode,695506,Trivandrum ,900,45,Female,1.6
+Nisha,Plumber,Karumom,695002,Trivandrum ,700,34,Female,1.3
+Parvati,Electrician,Karyavattom,695581,Trivandrum ,800,42,Female,4.1
+Pooja,Grass Cutter,Katakam,695304,Trivandrum ,1000,28,Female,1.5
+Poonam,Coconut Climber,Kattachalkuzhy,695509,Trivandrum ,600,36,Female,1.4
+Preethi,Carpentry,Kattacode,695572,Trivandrum ,800,47,Female,4
+Priya,Painter,Kattaikonam,695584,Trivandrum ,900,50,Female,1.6
+Rachana,Masonry,Kattakada,695572,Trivandrum ,700,45,Female,4.2
+Radha,Driver,Kattumpuram,695608,Trivandrum ,800,35,Female,1.7
+Remya,Wood Cutter,Kaudiar,695003,Trivandrum ,1000,52,Female,1
+Reshma,Electrician,Kaudiar Square,695003,Trivandrum ,600,28,Female,3.4
+Revathi,Home Nurse,Kavalayur,695144,Trivandrum ,800,65,Female,2.7
+Ria,Maid,Kazhakuttam,695582,Trivandrum ,900,45,Female,1.1
+Riya,Plumber,Kazhavur,695526,Trivandrum ,700,42,Female,2.4
+Roshni,Electrician,Keezharur,695130,Trivandrum ,800,52,Female,1
+Saanvi,Grass Cutter,Keezhattingal,695101,Trivandrum ,1000,36,Female,4.6
+Sabitha,Coconut Climber,Kerala Governor's camp,695099,Trivandrum ,600,37,Female,1.7
+Sangeetha,Carpentry,Kidarakuzhy,695523,Trivandrum ,800,37,Female,2.1
+Sanjana,Painter,Kilimanur,695601,Trivandrum ,900,45,Female,2
+Sanya,Masonry,Kilimanur Palace,695601,Trivandrum ,700,35,Female,4.8
+Sari,Driver,Kizhuvalam,695104,Trivandrum ,800,52,Female,3.8
+Sarika,Wood Cutter,Kochuvila,695563,Trivandrum ,1000,37,Female,2.1
+Shalini,Electrician,Kodithookiyakunnu,695608,Trivandrum ,600,40,Female,3.9
+Sheela,Home Nurse,Kodunganur,695013,Trivandrum ,800,31,Female,1.2
+Shilpa,Maid,Kodungavila,695123,Trivandrum ,900,45,Female,2.6
+Shivani,Plumber,Koduvazhannur,695612,Trivandrum ,700,45,Female,3.6
+Shobha,Electrician,Koithurkonam,695584,Trivandrum ,800,42,Female,3.8
+Shreya,Grass Cutter,Kokkotela,695542,Trivandrum ,1000,52,Female,3.6
+Simran,Coconut Climber,Kokkottukonam,695604,Trivandrum ,600,36,Female,2.3
+Sita,Carpentry,Koliakode,695607,Trivandrum ,800,37,Female,3.1
+Smitha,Painter,Kollode,695571,Trivandrum ,900,37,Female,2.9
+Sneha,Masonry,Konchira,695615,Trivandrum ,700,45,Female,2.1
+Sonia,Driver,Koonanvenga,695560,Trivandrum ,900,35,Female,1.2
+Sowmya,Upholsterer,Koonthallur,695304,Trivandrum ,700,44,Female,4.2
+Sruthi,Carpentry,Koothali(tvm),695505,Trivandrum ,800,56,Female,1.6
+Suchitra,Plumber,Kottackal (tvm),695124,Trivandrum ,1000,36,Female,4.7
+Sudha,Electrician,Kottakkakom,695542,Trivandrum ,600,39,Female,3.9
+Suma,Electrician,Kottapuram,695521,Trivandrum ,800,41,Female,2.3
+Sunanda,Electrician,Kottoor(tvm),695574,Trivandrum ,900,40,Female,3.2
+Sunita,Plumber,"Asramam,Kollam",691002,Kollam,800,37,Female,4.3
+Supriya,Mechanic,"Asramam,Kollam",691002,Kollam,1000,45,Female,3.2
+Sushma,Ironworker,"Asramam,Kollam",691002,Kollam,600,35,Female,3.6
+Swati,Concrete Finisher,"Asramam,Kollam",691002,Kollam,800,52,Female,4.7
+Tara,Fence Installer,Kaloor,682017,Ernakulam,900,37,Female,4.5
+Uma,Roofing Worker,Kaloor,682017,Ernakulam,700,40,Female,4.4
+Usha,Cabinetmaker,Cherthala,688524,Alapuzha,800,31,Female,4.8
+Vaishnavi,Upholsterer,Cherthala,688524,Alapuzha,1000,45,Female,3.2
+Rama,Landscaper,Cherthala,688524,Alapuzha,600,45,Female,2.5
+Geetha,Septic Tank Servicer,Cherthala,688524,Alapuzha,800,42,Female,3
+Suresh,Carpentry,Janardhanapuram,695141,Trivandrum ,700,39,Male,1.5
+Ramesh,Painter,Kachani,695013,Trivandrum ,800,41,Male,4.5
+Anjali,Masonry,Kadakkavur,695306,Trivandrum ,1000,40,Female,3.1
+Athira,Driver,Kaikara,695307,Trivandrum ,600,37,Female,3.1
+Aani,Wood Cutter,Kaimanam,695040,Trivandrum ,800,45,Female,3
+Lissi,Electrician,Kaithamukku,695024,Trivandrum ,900,35,Female,4.1
+Jose,Home Nurse,Kakkavila,695506,Trivandrum ,800,52,Male,2.7
+Jonson,Maid,Kalamachal,695606,Trivandrum ,1000,37,Male,4.7
+Mathew,Plumber,Kallambalam,695605,Trivandrum ,600,40,Male,2.7
+Gopalan,Electrician,Kallar Tvm,695551,Trivandrum ,800,31,Male,3.6
+Elsi,Grass Cutter,Kallara,695608,Trivandrum ,900,45,Female,4.2
+Remya,Coconut Climber,Kallayam,695043,Trivandrum ,700,45,Female,2.3
+Ramu,Carpentry,Kalliyal,695574,Trivandrum ,800,42,Male,3.5
+Bindu,Painter,Kalliyoor,695042,Trivandrum ,1000,39,Female,1.1
+Raman,Masonry,Kanchinada,695609,Trivandrum ,600,41,Male,1.4
+Aneesh,Driver,Kandala,695512,Trivandrum ,800,40,Male,2
+Biju,Electrician,Kaniyapuram,695301,Trivandrum ,700,37,Male,2.9
+Rajani,Stonemason,Kanjampazhanji,695525,Trivandrum ,800,45,Female,4.7
+Bineesh,Solar Panel Installer,Kanjiramkulam,695524,Trivandrum ,1000,35,Male,3
